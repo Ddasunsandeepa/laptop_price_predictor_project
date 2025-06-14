@@ -1,0 +1,8 @@
+[project]
+name = "laptop_price_predictor_project"
+version = "0.1.0"
+description = "Predicting laptop prices using ML"
+authors = [
+    {name = "Dasun Sandeepa", email = "Dsk.sandeep.987@gmail.com"}
+]
+requires-python = "3.11"
