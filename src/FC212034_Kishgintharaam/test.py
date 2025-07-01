@@ -1,59 +1,82 @@
-import pandas as pd
+import argparse
+from pathlib import Path
 import joblib
-from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import numpy as np
+import pandas as pd
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from utils import load_data, features, target, get_feature_names
 import matplotlib.pyplot as plt
-from utils import features, target, get_feature_names, load_data
 
 def evaluate_model(model, X_test, y_test):
-    """Evaluate model performance and return metrics"""
     y_pred = model.predict(X_test)
     
-    metrics = {
-        'MAE': mean_absolute_error(y_test, y_pred),
-        'RMSE': np.sqrt(mean_squared_error(y_test, y_pred)),
-        'R2': r2_score(y_test, y_pred)
+    mse = mean_squared_error(y_test, y_pred)
+    rmse = np.sqrt(mse)
+    mae = mean_absolute_error(y_test, y_pred)
+    r2 = r2_score(y_test, y_pred)
+    
+    return {
+        'RMSE': rmse,
+        'MAE': mae,
+        'R2': r2
     }
-    
-    return metrics
 
-def plot_feature_importance(model, feature_names):
-    """Plot feature importance"""
-    importances = model.named_steps['regressor'].feature_importances_
+def plot_feature_importances(model, model_path=None, top_n=15):
+    try:
+        importances = model.named_steps['regressor'].feature_importances_
+    except AttributeError:
+        print("Model has no feature_importances_ attribute. Skipping plot.")
+        return
+
+    feature_names = get_feature_names(model)
+    indices = np.argsort(importances)[::-1][:top_n]
     
-    plt.figure(figsize=(12, 8))
-    plt.barh(feature_names[:15], importances[:15])
-    plt.xlabel('Feature Importance')
-    plt.title('Top 15 Important Features')
-    plt.gca().invert_yaxis()
-    plt.savefig('feature_importance.png')
+    plot_dir = Path("test_results/Random Forest")
+    plot_dir.mkdir(parents=True, exist_ok=True)
+    
+    if model_path:
+        model_name = Path(model_path).stem
+        fname = plot_dir / f"feature_importances_{model_name}.png"
+    else:
+        fname = plot_dir / "feature_importances.png"
+
+    plt.figure(figsize=(10, 6))
+    plt.title("Top Feature Importances")
+    plt.bar(range(top_n), importances[indices], align='center')
+    plt.xticks(range(top_n), [feature_names[i] for i in indices], rotation=45, ha='right')
+    plt.tight_layout()
+    plt.savefig(fname, dpi=300, bbox_inches='tight')
     plt.close()
+    print(f"✅ Feature importances saved to {fname}")
 
-if __name__ == "__main__":
-    # Load test data
+
+def main(model_path: Path):
+    # Load data
     df = load_data('cleaned_data.csv')
-
     if df.empty:
         raise ValueError("DataFrame is empty. Please check the data file.")
     
-    # Ensure the DataFrame has the required columns
-    if not all(col in df.columns for col in features + [target]):
-        raise ValueError("DataFrame does not contain all required features and target column.")
-    
-    # Split into features and target
-    X_test = df[features]
-    y_test = df[target]
+    X = df[features]
+    y = df[target]
     
     # Load trained model
-    model = joblib.load('laptop_price_rf_model.pkl')
-    
+    model = joblib.load(model_path)
+    print(f"\n Evaluating model from {model_path}") 
+
     # Evaluate model
-    metrics = evaluate_model(model, X_test, y_test)
-    print("\nModel Performance")
-    print(f"MAE: {metrics['MAE']:.2f} LKR")
-    print(f"RMSE: {metrics['RMSE']:.2f} LKR")
-    print(f"R2 Score: {metrics['R2']:.4f}")
+    metrics = evaluate_model(model, X, y)
     
-    # Plot feature importance
-    feature_names = get_feature_names(model)  
-    plot_feature_importance(model, feature_names)
+    print("\nModel Evaluation Metrics:")
+    for metric, value in metrics.items():
+        print(f"{metric}: {value:.2f}")
+    
+    # Plot feature importances
+    plot_feature_importances(model)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Evaluate trained model and plot feature importances.")
+    parser.add_argument('--model_path', type=Path, default='laptop_price_rf_model.pkl', help='Path to the trained model file')
+    
+    args = parser.parse_args()
+    
+    main(Path(args.model_path))

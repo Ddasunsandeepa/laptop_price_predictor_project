@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 import numpy as np
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR   = ROOT / "data"
 MODEL_DIR  = ROOT / "models"
 MODEL_DIR.mkdir(exist_ok=True)
@@ -33,3 +33,8 @@ def get_feature_names(pipeline):
     ohe = pipeline.named_steps['preprocessor'].named_transformers_['cat'].named_steps['onehot']
     cat_feature_names = ohe.get_feature_names_out(categorical_features)
     return np.concatenate([numeric_features, cat_feature_names])
+
+def save_model(model, filename='laptop_price_rf_model.pkl'):
+    """Save the trained model to a file"""
+    joblib.dump(model, MODEL_DIR / filename)
+    print(f"Model saved to {MODEL_DIR / filename}")
