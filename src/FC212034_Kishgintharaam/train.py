@@ -6,9 +6,12 @@ from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import OneHotEncoder
 from pathlib import Path
-from utils import features, target, numeric_features, categorical_features, load_data, save_model
+from utils import features, target, numeric_features, categorical_features, load_data
+
+
 
 def create_pipeline():
+    """Create the preprocessing and modeling pipeline"""
     preprocessor = ColumnTransformer(
         transformers=[
             ('num', Pipeline(steps=[
@@ -53,8 +56,6 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=42)
     
-    # Train and save model
+    # Train model
     model = train_model(X_train, y_train)
-    print("Model training completed.")
-    save_model(model)
-    print("Model saved successfully.")
+    print("Model trained successfully.")
