@@ -31,7 +31,7 @@ def plot_feature_importances(model, model_path=None, top_n=15):
     feature_names = get_feature_names(model)
     indices = np.argsort(importances)[::-1][:top_n]
     
-    plot_dir = Path("test_results/Random Forest")
+    plot_dir = Path("src/FC212034_Kishgintharaam/test_results")
     plot_dir.mkdir(parents=True, exist_ok=True)
     
     if model_path:
