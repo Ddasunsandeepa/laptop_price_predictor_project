@@ -42,10 +42,14 @@ def train_model(X_train, y_train):
     return pipeline
 
 if __name__ == "__main__":
+    print(f"\n{'='*50}")
+    print(f"{'MODEL Training':^50}")
+    print(f"{'='*50}\n")
+
     # Load data
     df = load_data('cleaned_data.csv')
     if df.empty:
-        raise ValueError("DataFrame is empty. Please check the data file.")
+        raise ValueError("❌ DataFrame is empty. Please check the data file.")
     X = df[features]
     y = df[target]
     
@@ -55,6 +59,6 @@ if __name__ == "__main__":
     
     # Train and save model
     model = train_model(X_train, y_train)
-    print("Model training completed.")
+    print("✅ Model training completed.")
     save_model(model)
-    print("Model saved successfully.")
+    print("✅ Model saved successfully.")

@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 
 ROOT = Path(__file__).resolve().parents[2]
-DATA_DIR   = ROOT / "data"
+DATA_DIR   = ROOT /  "src" / "FC212034_Kishgintharaam"
 MODEL_DIR  = ROOT / "src" / "FC212034_Kishgintharaam" / "model"
 MODEL_DIR.mkdir(exist_ok=True)
 
