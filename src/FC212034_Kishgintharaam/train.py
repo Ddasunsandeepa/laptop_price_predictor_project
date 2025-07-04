@@ -1,64 +1,40 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import OneHotEncoder
-from pathlib import Path
-from utils import features, target, numeric_features, categorical_features, load_data, save_model
+from sklearn.ensemble import RandomForestRegressor
+import pickle
 
-def create_pipeline():
-    preprocessor = ColumnTransformer(
-        transformers=[
-            ('num', Pipeline(steps=[
-                ('imputer', SimpleImputer(strategy='median')),  
-                ('scaler', 'passthrough')  
-            ]), numeric_features),
-            ('cat', Pipeline(steps=[
-                ('imputer', SimpleImputer(strategy='most_frequent')),  
-                ('onehot', OneHotEncoder(handle_unknown='ignore'))
-            ]), categorical_features)
-        ]
-    )
-    
-    rf_model = RandomForestRegressor(
-        n_estimators=200,
-        max_depth=15,
-        min_samples_split=5,
-        min_samples_leaf=2,
-        random_state=42,
-        n_jobs=-1
-    )
-    
-    return Pipeline(steps=[
-        ('preprocessor', preprocessor),
-        ('regressor', rf_model)
-    ])
+df = pd.read_csv("splits/train.csv")
+X = df.drop(columns=["Price"])
+y = df["Price"]
 
-def train_model(X_train, y_train):
-    pipeline = create_pipeline()
-    pipeline.fit(X_train, y_train)
-    return pipeline
+numeric = X.select_dtypes("number").columns
+categorical = X.select_dtypes("object").columns
 
-if __name__ == "__main__":
-    print(f"\n{'='*50}")
-    print(f"{'MODEL Training':^50}")
-    print(f"{'='*50}\n")
+preprocess = ColumnTransformer([
+    ("num", Pipeline([
+        ("impute", SimpleImputer(strategy="median")),
+        ("scale",  StandardScaler())
+    ]), numeric),
+    ("cat", Pipeline([
+        ("impute", SimpleImputer(strategy="most_frequent")),
+        ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False))
+    ]), categorical)
+])
 
-    # Load data
-    df = load_data('cleaned_data.csv')
-    if df.empty:
-        raise ValueError("❌ DataFrame is empty. Please check the data file.")
-    X = df[features]
-    y = df[target]
-    
-    # Split data
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, random_state=42)
-    
-    # Train and save model
-    model = train_model(X_train, y_train)
-    print("✅ Model training completed.")
-    save_model(model)
-    print("✅ Model saved successfully.")
+model = Pipeline([
+    ("prep", preprocess),
+    ("rf",   RandomForestRegressor(n_estimators=600, 
+                                   random_state=42, 
+                                   max_samples=0.8,
+                                   max_features=0.5,
+                                   max_depth=None,
+                                   n_jobs=-1))
+])
+
+model.fit(X, y)
+pickle.dump(df, open("models/train_data.pkl", "wb"))
+pickle.dump(model, open("models/random_forest_model.pkl", "wb"))
+print("✓ model trained and saved")

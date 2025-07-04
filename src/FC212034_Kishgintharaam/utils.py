@@ -1,40 +1,22 @@
-from pathlib import Path
+from sklearn.model_selection import train_test_split
 import pandas as pd
-import joblib
-import numpy as np
+import os
 
-ROOT = Path(__file__).resolve().parents[2]
-DATA_DIR   = ROOT /  "src" / "FC212034_Kishgintharaam"
-MODEL_DIR  = ROOT / "src" / "FC212034_Kishgintharaam" / "model"
-MODEL_DIR.mkdir(exist_ok=True)
+df = pd.read_csv("../../notebooks/FC212034_Kishgintharaam/cleaned_data.csv")
+X, y = df.drop(columns=["Price"]), df["Price"]
 
-def load_data(fname: str = "cleaned_data.csv") -> pd.DataFrame:
-    return pd.read_csv(DATA_DIR / fname)
+# 15 % test first
+X_trainval, X_test, y_trainval, y_test = train_test_split(
+    X, y, test_size=0.15, random_state=42)
 
+# 15 % validation from the remaining 85 %
+X_train, X_val, y_train, y_val = train_test_split(
+    X_trainval, y_trainval, test_size=0.1765, random_state=42)
 
-# Feature lists
-features = [
-    'Company', 'TypeName', 'Inches', 'Ram', 'Cpu_Speed', 
-    'SSD', 'HDD', 'Gpu_Brand', 'Touchscreen', 'IPS',
-    'Resolution_X', 'Resolution_Y', 'Weight', 'OpSys'
-]
-
-target = 'Price'
-
-numeric_features = [
-    'Inches', 'Ram', 'Cpu_Speed', 'SSD', 'HDD', 
-    'Touchscreen', 'IPS', 'Resolution_X', 'Resolution_Y', 'Weight'
-]
-
-categorical_features = ['Company', 'TypeName', 'Gpu_Brand', 'OpSys']
-
-def get_feature_names(pipeline):
-    """Get feature names after preprocessing"""
-    ohe = pipeline.named_steps['preprocessor'].named_transformers_['cat'].named_steps['onehot']
-    cat_feature_names = ohe.get_feature_names_out(categorical_features)
-    return np.concatenate([numeric_features, cat_feature_names])
-
-def save_model(model, filename='random_forest_model.pkl'):
-    """Save the trained model to a file"""
-    joblib.dump(model, MODEL_DIR / filename)
-    print(f"Model saved to {MODEL_DIR / filename}")
+os.makedirs("splits", exist_ok=True)
+(X_train.assign(Price=y_train)
+    .to_csv("splits/train.csv", index=False))
+(X_val.assign(Price=y_val)
+    .to_csv("splits/val.csv",   index=False))
+(X_test.assign(Price=y_test)
+    .to_csv("splits/test.csv",  index=False))
