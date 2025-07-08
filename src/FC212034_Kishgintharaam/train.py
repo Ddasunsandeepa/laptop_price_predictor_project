@@ -1,3 +1,9 @@
+# This file is to train a Random Forest model on the provided dataset.
+# Dataset - splits/train.csv
+# Model - RandomForestRegressor
+# Libraries - pandas, scikit-learn, pickle
+# Output - models/train_data.pkl, models/random_forest_model.pkl
+
 import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
