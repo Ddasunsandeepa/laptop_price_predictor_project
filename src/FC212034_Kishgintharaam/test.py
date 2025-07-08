@@ -1,3 +1,9 @@
+# This file is to evaluate the Random Forest model on the test dataset.
+# Dataset - splits/test.csv
+# Model - RandomForestRegressor
+# Libraries - pandas, scikit-learn, joblib
+# Output - reports/test_predictions.csv, prints metrics to console
+
 from re import L
 import numpy as np
 import pandas as pd
