@@ -1,3 +1,9 @@
+# This file is to hyper‑tune a Random Forest model on the provided dataset using RandomizedSearchCV.
+# Dataset - splits/train.csv, splits/val.csv
+# Model - RandomForestRegressor
+# Libraries - pandas, scikit-learn, joblib
+# Output - models/rf_tuned.pkl
+
 import pandas as pd, numpy as np, sklearn, joblib
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer

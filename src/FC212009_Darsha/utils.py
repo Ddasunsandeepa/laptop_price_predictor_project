@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 import os
 
-df = pd.read_csv("../../notebooks/FC212034_Kishgintharaam/cleaned_data.csv")
+df = pd.read_csv("../../notebooks/FC212009_Darsha/cleaned_data.csv")
 X, y = df.drop(columns=["Price"]), df["Price"]
 
 # 15 % test first
