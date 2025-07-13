@@ -1,0 +1,1304 @@
+Price,Company,TypeName,Inches,Ram,OpSys,Weight,Touchscreen,Ips,HD,cpu_name,gpu_name,Memory_Type
+250539.178032,Apple,Ultrabook,13.3,8,Other,1.37,0,1,0,Intel Core i5,Other,SSD
+168113.286432,Apple,Ultrabook,13.3,8,Other,1.34,0,0,0,Intel Core i5,Intel HD,Flash Storage
+107532.36,HP,Notebook,15.6,8,No OS,1.86,0,0,1,Intel Core i5,Intel HD,SSD
+474535.6293599999,Apple,Ultrabook,15.4,16,Other,1.83,0,1,0,Intel Core i7,AMD,SSD
+337296.28608,Apple,Ultrabook,13.3,8,Other,1.37,0,1,0,Intel Core i5,Other,SSD
+74805.12,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,AMD,AMD,HDD
+400201.78161599993,Apple,Ultrabook,15.4,16,Other,2.04,0,1,0,Intel Core i7,Other,Flash Storage
+216691.73135999998,Apple,Ultrabook,13.3,8,Other,1.34,0,0,0,Intel Core i5,Intel HD,Flash Storage
+279584.13599999994,Asus,Ultrabook,14.0,16,Windows 10,1.3,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+143999.856,Acer,Ultrabook,14.0,8,Windows 10,1.6,0,1,1,Intel Core i5,Intel UHD,SSD
+73664.34191999999,HP,Notebook,15.6,4,No OS,1.86,0,0,0,Intel Core i5,Intel HD,HDD
+64517.545872,HP,Notebook,15.6,4,No OS,1.86,0,0,1,Intel Core i3,Intel HD,HDD
+456305.62161599996,Apple,Ultrabook,15.4,16,Other,1.83,0,1,0,Intel Core i7,AMD,SSD
+93300.68591999999,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,AMD,SSD
+236084.95872,Apple,Ultrabook,12.0,8,Other,0.92,0,1,0,Other,Intel HD,SSD
+283988.28744,Apple,Ultrabook,13.3,8,Other,1.37,0,1,0,Intel Core i5,Other,SSD
+139324.536,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,AMD,SSD
+534482.5824,Apple,Ultrabook,15.4,16,Other,1.83,0,1,0,Intel Core i7,AMD,SSD
+93319.3872,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+183085.5312,Dell,Ultrabook,13.3,8,Windows 10,1.22,1,1,1,Intel Core i5,Intel UHD,SSD
+35887.75632,Asus,Netbook,11.6,2,Windows 10,0.98,0,0,0,Other,Intel HD,Flash Storage
+186825.7872,Lenovo,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+48249.30239999999,HP,Notebook,15.6,4,No OS,1.86,0,0,0,AMD,AMD,HDD
+153163.4832,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1,0,1,Intel Core i5,Intel UHD,SSD
+123241.43519999998,HP,Ultrabook,15.6,8,Windows 10,1.91,0,0,1,Intel Core i7,Intel HD,SSD
+78291.038592,Dell,Notebook,15.6,4,Windows 10,2.3,0,0,0,Intel Core i3,Intel HD,HDD
+205527.0672,Apple,Ultrabook,13.3,8,Other,1.35,0,0,0,Intel Core i5,Intel HD,Flash Storage
+149610.24,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,AMD,SSD
+242742.6144,Dell,Ultrabook,15.6,8,Windows 10,1.88,0,0,1,Intel Core i7,Intel UHD,SSD
+167563.46879999997,HP,Notebook,17.3,8,Windows 10,2.5,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+45816.265871999996,Other,Notebook,15.6,4,Windows 10,1.89,0,0,1,Other,Intel HD,Flash Storage
+37215.54719999999,Asus,Notebook,14.0,2,Windows 10,1.65,0,0,0,AMD,AMD,Flash Storage
+82098.61919999999,HP,Notebook,17.3,4,Windows 10,2.71,0,0,1,AMD,AMD,HDD
+349526.9232,Dell,Ultrabook,13.3,16,Windows 10,1.2,1,0,1,Intel Core i7,Intel UHD,SSD
+186638.7744,Apple,Ultrabook,13.3,8,Other,1.35,0,0,0,Intel Core i5,Intel HD,Flash Storage
+46566.18719999999,Lenovo,Notebook,14.0,4,Windows 10,1.44,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+68633.69759999998,Acer,Notebook,15.6,4,Linux,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+183085.5312,Dell,Notebook,17.3,8,Windows 10,2.8,0,1,1,Intel Core i5,AMD,Hybrid
+91391.285232,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,Intel Core i5,Intel HD,HDD
+164384.2512,HP,Notebook,15.6,8,Windows 10,2.1,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+72747.97919999999,Asus,Notebook,15.6,4,Linux,2.0,0,0,1,Intel Core i3,Intel HD,HDD
+280332.1872,Dell,Gaming,15.6,16,Windows 10,2.65,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+97805.824272,Asus,Notebook,15.6,8,Linux,2.3,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+127542.72959999999,Acer,Notebook,15.6,4,Windows 10,2.2,0,1,1,Intel Core i5,Intel UHD,SSD
+186825.7872,Dell,2 in 1 Convertible,17.3,12,Windows 10,2.77,1,0,1,Intel Core i5,Nvidia GeForce,HDD
+265371.16319999995,Apple,Ultrabook,13.3,8,Other,1.37,0,1,0,Intel Core i5,Other,SSD
+69007.7232,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,0,Intel Core i3,Intel HD,SSD
+242929.6272,Asus,Gaming,17.3,8,Windows 10,3.2,0,0,1,AMD,AMD,Hybrid
+119501.17919999998,Dell,Notebook,15.6,4,Windows 10,2.3,0,0,1,Intel Core i5,AMD,SSD
+87147.96479999999,Asus,Notebook,17.3,4,Windows 10,2.8,0,0,0,Other,Nvidia GeForce,HDD
+59657.083199999994,Lenovo,2 in 1 Convertible,10.1,4,Other,0.69,1,1,0,Other,Intel HD,Flash Storage
+157277.7648,Acer,Notebook,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+74522.730672,HP,Notebook,15.6,4,Windows 10,1.86,0,0,1,AMD,AMD,SSD
+206275.11839999998,HP,Notebook,13.3,8,Windows 10,1.49,0,0,1,Intel Core i7,Intel UHD,SSD
+71812.9152,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,0,Intel Core i3,Intel HD,HDD
+143588.42784,Dell,Notebook,15.6,8,Windows 10,2.13,0,0,1,Intel Core i7,AMD,SSD
+82098.61919999999,HP,Notebook,15.6,4,Windows 10,1.91,0,0,1,Intel Core i3,Intel HD,SSD
+109625.033232,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,0,Intel Core i5,Intel HD,SSD
+457994.34719999996,MSI,Gaming,17.3,16,Windows 10,2.43,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+77610.31199999999,Asus,Notebook,15.6,4,Linux,2.0,0,0,1,Intel Core i3,Intel HD,SSD
+242929.6272,Dell,Notebook,17.3,16,Windows 10,2.8,0,0,1,Intel Core i7,AMD,Hybrid
+164384.2512,Dell,Ultrabook,14.0,8,Windows 10,1.7,0,0,1,Intel Core i5,Intel UHD,SSD
+112020.6672,Lenovo,Notebook,14.0,8,No OS,1.7,0,1,1,Intel Core i3,Intel HD,SSD
+175979.0448,Asus,Notebook,14.0,8,Windows 10,1.4,0,0,1,Intel Core i5,Intel UHD,SSD
+129038.83199999998,HP,Notebook,15.6,8,Windows 10,1.86,0,0,1,Intel Core i5,Intel HD,SSD
+370846.3824,Asus,Ultrabook,15.6,16,Windows 10,1.8,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+82040.645232,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,Intel Core i3,AMD,HDD
+42825.9312,HP,Notebook,14.0,4,Windows 10,1.44,0,0,0,Intel Celeron Dual,Intel HD,SSD
+102670.0272,Lenovo,Notebook,15.6,4,Windows 10,1.9,0,0,1,Intel Core i5,Intel HD,HDD
+177475.1472,Asus,Gaming,17.3,12,Linux,3.0,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+203656.9392,Other,Ultrabook,13.5,4,Other,1.252,1,0,0,Intel Core i5,Intel HD,SSD
+178597.224,Dell,Ultrabook,13.3,8,Windows 10,1.4,0,1,1,Intel Core i7,AMD,SSD
+162701.136,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,AMD,SSD
+204779.01599999997,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+72747.97919999999,Acer,Notebook,14.0,8,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+177475.1472,Asus,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+97059.64319999999,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i5,Intel HD,HDD
+159895.944,Dell,Notebook,15.6,8,Windows 10,2.02,0,0,1,Intel Core i7,Intel UHD,Hybrid
+99116.784,Acer,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+182711.50559999997,HP,Notebook,17.3,8,Windows 10,2.5,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+204995.95084799998,Dell,Ultrabook,15.6,8,Windows 10,1.88,0,1,1,Intel Core i5,Intel UHD,SSD
+282389.328,Apple,Ultrabook,12.0,8,Other,0.92,0,1,0,Intel Core i5,Intel HD,SSD
+160831.008,HP,Notebook,14.0,8,Windows 10,1.63,0,0,1,Intel Core i5,Intel HD,SSD
+74618.1072,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,AMD,AMD,SSD
+73870.056,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,AMD,AMD,HDD
+252280.2672,Dell,Gaming,15.6,16,Windows 10,2.65,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+130721.9472,HP,Ultrabook,15.6,8,Windows 10,1.83,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+112018.797072,HP,Notebook,15.6,8,Windows 10,1.96,0,0,1,Intel Core i5,Intel HD,SSD
+270981.5472,Asus,Gaming,15.6,16,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+308384.10719999997,Dell,Ultrabook,13.3,8,Windows 10,1.21,0,1,1,Intel Core i7,Intel UHD,SSD
+130721.9472,Asus,Gaming,15.6,8,Windows 10,2.45,0,0,1,AMD,AMD,HDD
+128851.81919999998,Acer,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+223854.3216,HP,Notebook,13.3,16,Windows 10,1.49,0,0,1,Intel Core i7,Intel UHD,SSD
+223480.29599999997,Dell,Gaming,15.6,8,Windows 10,2.65,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+196176.4272,Asus,Ultrabook,14.0,8,Windows 10,1.25,0,0,1,Intel Core i7,Intel HD,SSD
+158399.8416,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.5,1,1,1,Intel Core i5,Intel UHD,SSD
+112188.97871999998,Dell,Notebook,15.6,8,Linux,2.2,0,0,1,Intel Core i7,AMD,HDD
+90701.208,Dell,Notebook,15.6,4,Linux,2.2,0,0,1,Intel Core i3,AMD,SSD
+107906.3856,Asus,Notebook,15.6,6,Windows 10,2.0,0,0,1,Intel Core i3,Nvidia GeForce,SSD
+233578.9872,HP,Gaming,15.6,12,Windows 10,2.62,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+134462.2032,HP,Notebook,15.6,8,Windows 10,1.91,0,0,1,Intel Core i7,AMD,SSD
+65267.4672,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,AMD,AMD,HDD
+120997.2816,Dell,Notebook,15.6,8,Linux,2.2,0,0,1,Intel Core i5,AMD,HDD
+209267.32319999998,HP,Ultrabook,13.3,8,Windows 10,1.38,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+250597.15199999997,Other,Ultrabook,13.5,8,Other,1.252,1,0,0,Intel Core i5,Intel HD,SSD
+123241.43519999998,HP,Notebook,14.0,6,Windows 10,1.58,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+77591.61072,Lenovo,Notebook,15.6,4,Windows 10,1.85,0,0,1,Intel Core i3,Intel HD,HDD
+223106.27039999998,Asus,Ultrabook,14.0,8,Windows 10,1.3,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+242929.6272,MSI,Gaming,15.6,16,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+276778.94399999996,Lenovo,Notebook,14.0,8,Windows 10,1.58,0,1,1,Intel Core i7,Intel HD,SSD
+236010.1536,Asus,Ultrabook,15.6,16,Windows 10,1.5,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+257890.65119999996,Dell,Ultrabook,13.3,8,Windows 10,1.23,1,0,1,Intel Core i7,Other,SSD
+261630.9072,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1,1,1,Intel Core i5,Intel HD,SSD
+135023.2416,HP,Notebook,14.0,4,Windows 10,1.63,0,1,0,Intel Core i5,Intel UHD,HDD
+304643.8512,Dell,Ultrabook,13.3,8,Windows 10,1.21,0,1,1,Intel Core i5,Intel UHD,SSD
+261629.03707199998,HP,2 in 1 Convertible,13.3,8,Windows 10,1.26,1,1,1,Intel Core i5,Intel UHD,SSD
+202721.87519999998,HP,Notebook,14.0,8,Windows 10,1.63,0,0,1,Intel Core i7,Intel UHD,SSD
+211386.17822399997,Dell,Notebook,15.6,8,Windows 10,2.16,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+105475.21919999999,Asus,Notebook,17.3,4,Windows 10,2.0,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+209080.3104,Asus,Notebook,15.6,8,Windows 10,1.7,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+89579.13119999999,Acer,Notebook,15.6,6,Windows 10,2.1,1,1,1,Intel Core i3,Intel HD,HDD
+419189.19119999994,MSI,Gaming,15.6,16,Windows 10,1.8,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+117631.05119999997,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+237693.2688,HP,Notebook,17.3,16,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+84342.77279999999,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,AMD,AMD,SSD
+48436.3152,HP,Notebook,15.6,4,No OS,1.86,0,0,0,Intel Celeron Dual,Intel HD,HDD
+151854.39359999998,HP,Notebook,14.0,8,Windows 10,1.63,0,0,1,Intel Core i5,Intel UHD,HDD
+51987.68827199999,Asus,Notebook,14.0,4,Other,1.65,0,0,0,AMD,AMD,SSD
+261069.86879999994,Dell,Notebook,17.3,16,Windows 10,2.8,0,0,1,Intel Core i7,AMD,Hybrid
+173547.8784,HP,Notebook,17.3,8,Windows 10,2.5,0,0,1,Intel Core i5,Intel UHD,SSD
+119499.30907199999,Dell,Notebook,15.6,8,Windows 10,2.36,0,0,0,Intel Core i5,AMD,HDD
+83968.7472,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,AMD,HDD
+165319.31519999998,Acer,Ultrabook,14.0,8,Windows 10,1.6,0,1,1,Intel Core i7,Intel UHD,SSD
+106971.3216,Acer,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,Nvidia GeForce,SSD
+111833.65439999998,HP,Notebook,15.6,8,Windows 10,2.05,0,0,0,Intel Core i7,Intel HD,HDD
+184768.6464,HP,Notebook,14.0,8,Windows 10,1.63,0,0,1,Intel Core i7,Intel UHD,SSD
+47194.55020799999,Lenovo,Notebook,15.6,4,No OS,1.9,0,0,0,Intel Celeron Dual,Intel HD,HDD
+175418.00639999998,Asus,Gaming,17.3,8,Windows 10,3.0,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+93319.3872,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+130721.9472,HP,Notebook,13.3,4,Windows 10,1.32,0,1,1,Intel Core i5,Intel HD,SSD
+122493.38399999999,Acer,Notebook,17.3,4,Windows 10,3.0,0,1,1,Intel Core i3,Nvidia GeForce,HDD
+208710.02505599998,Lenovo,Notebook,14.0,8,Windows 10,1.75,0,1,1,Intel Core i5,AMD,SSD
+162514.1232,Lenovo,Gaming,15.6,8,No OS,2.4,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+112581.7056,Toshiba,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i5,Intel HD,HDD
+69007.7232,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,AMD,AMD,SSD
+205527.0672,Asus,Ultrabook,14.0,8,Windows 10,1.25,0,0,1,Intel Core i7,Intel UHD,SSD
+376643.7792,HP,Ultrabook,12.5,8,Windows 10,0.97,1,1,1,Other,Intel HD,SSD
+64332.40319999999,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,1,Intel Celeron Dual,Intel HD,HDD
+379448.97119999997,MSI,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+83594.72159999999,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+233627.61052799996,Dell,Gaming,15.6,16,Windows 10,2.56,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+168124.5072,Dell,Gaming,15.6,8,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,Other
+93132.37439999999,Lenovo,Notebook,15.6,4,Windows 10,1.9,0,0,0,Intel Core i5,Intel HD,SSD
+353454.192,MSI,Gaming,17.3,16,Windows 10,2.8,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+202347.8496,HP,Ultrabook,14.0,4,Windows 10,1.48,0,0,1,Intel Core i5,Intel HD,SSD
+115760.92319999999,HP,Notebook,15.6,6,Windows 10,1.91,0,0,1,Intel Core i5,AMD,SSD
+117631.05119999997,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.74,1,1,1,Intel Core i3,Intel HD,SSD
+245921.83199999997,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1,0,1,Intel Core i5,Intel HD,SSD
+196176.4272,Dell,2 in 1 Convertible,15.6,8,Windows 10,1.56,1,0,1,Intel Core i7,Intel UHD,SSD
+83594.72159999999,Toshiba,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+75366.1584,Asus,Notebook,15.6,4,Windows 10,2.03,0,0,0,AMD,AMD,HDD
+150545.304,Acer,Notebook,17.3,4,Windows 10,3.0,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+136145.3184,Dell,Notebook,15.6,8,Windows 10,2.13,0,0,1,Intel Core i5,AMD,SSD
+201786.8112,Lenovo,Gaming,15.6,16,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+65080.454399999995,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Celeron Dual,Intel HD,HDD
+336436.0272,MSI,Gaming,15.6,16,Windows 10,2.4,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+67981.02292799999,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,Other,Intel HD,HDD
+198325.204272,Dell,Gaming,15.6,8,Windows 10,2.56,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+159708.9312,Acer,Notebook,17.3,8,Windows 10,3.0,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+141007.6512,HP,Notebook,13.3,4,Windows 10,1.49,0,1,1,Intel Core i5,Intel UHD,HDD
+252280.2672,Other,Ultrabook,13.0,8,Windows 10,1.05,0,1,1,Intel Core i5,Intel HD,SSD
+130721.9472,HP,Notebook,17.3,6,Windows 10,2.71,0,1,1,Intel Core i5,AMD,HDD
+57786.9552,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,0,AMD,AMD,HDD
+91449.25919999999,Toshiba,Notebook,15.6,4,Windows 10,2.0,0,0,0,Intel Core i3,Intel HD,HDD
+172612.8144,HP,Notebook,17.3,8,Windows 10,2.5,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+85838.8752,Dell,Notebook,15.6,8,Windows 10,2.3,0,0,0,Intel Core i3,Intel HD,HDD
+83968.7472,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,SSD
+523448.8272,MSI,Gaming,18.4,32,Windows 10,4.4,0,0,1,Intel Core i7,Other,Hybrid
+152041.40639999998,Lenovo,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,AMD,Hybrid
+280332.1872,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1,1,1,Intel Core i5,Intel UHD,SSD
+196176.4272,Dell,Notebook,15.6,16,Linux,2.02,0,0,1,Intel Core i7,AMD,Hybrid
+261630.9072,Dell,Ultrabook,13.3,8,Windows 10,1.23,0,0,1,Intel Core i5,Intel UHD,SSD
+345786.66719999997,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,1,1,1,Intel Core i7,Intel UHD,SSD
+148301.15039999998,Toshiba,Notebook,15.6,8,Windows 10,2.0,0,0,0,Intel Core i5,Intel HD,SSD
+224228.3472,Other,Notebook,15.6,8,No OS,1.95,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+289682.8272,Dell,Notebook,17.3,16,Windows 10,2.77,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+448269.6816,Dell,Notebook,15.6,16,Windows 10,2.06,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+145682.9712,Lenovo,Gaming,15.6,8,No OS,2.4,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+184955.6592,Acer,Ultrabook,13.3,8,Windows 10,1.12,0,1,1,Intel Core i5,Intel HD,SSD
+202908.888,Dell,Notebook,17.3,8,Windows 10,2.8,0,0,1,Intel Core i7,AMD,Hybrid
+528124.1472,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,1,0,0,Intel Core i7,Intel HD,SSD
+48623.327999999994,Other,Notebook,14.0,4,Windows 10,1.3,0,1,1,Intel Celeron Dual,Intel HD,Flash Storage
+186994.09871999995,Other,Ultrabook,13.3,8,No OS,1.3,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+130534.9344,Lenovo,Notebook,17.3,8,No OS,2.8,0,0,0,Intel Core i5,Nvidia GeForce,SSD
+156903.73919999998,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1,1,1,Intel Core i7,Intel UHD,HDD
+170929.69919999997,HP,Notebook,17.3,8,Windows 10,2.5,0,1,1,Intel Core i5,Nvidia GeForce,HDD
+1140591.0672,Other,Gaming,17.3,32,Windows 10,3.49,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+179345.27519999997,HP,Notebook,13.3,8,Windows 10,1.49,0,0,1,Intel Core i5,Intel UHD,SSD
+257890.65119999996,HP,Gaming,17.3,16,Windows 10,3.35,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+195428.376,HP,Notebook,17.3,8,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+345038.616,Dell,Gaming,15.6,16,Windows 10,2.65,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+92197.3104,Lenovo,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i5,Intel HD,SSD
+138763.4976,Acer,Notebook,15.6,8,Windows 10,2.23,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+327085.3872,Lenovo,Gaming,15.6,16,Windows 10,3.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+571324.1039999999,Dell,Workstation,15.6,16,Windows 10,2.8,0,0,1,Other,Nvidia Quadro,Hybrid
+261443.8944,Lenovo,Gaming,15.6,16,No OS,2.4,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+82098.61919999999,Dell,Notebook,15.6,6,Windows 10,2.3,1,0,0,Intel Core i3,Intel HD,HDD
+364487.9472,Dell,Ultrabook,13.3,8,Windows 10,1.21,1,1,1,Intel Core i7,Intel UHD,SSD
+270981.5472,Dell,Ultrabook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i7,Intel UHD,SSD
+111646.64159999999,Lenovo,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i5,Intel HD,SSD
+145682.9712,Acer,Notebook,15.6,8,Linux,2.4,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+263127.00959999993,Asus,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+65267.4672,HP,Notebook,15.6,4,No OS,2.1,0,0,1,Intel Core i3,Intel HD,HDD
+102670.0272,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i5,Intel HD,SSD
+280332.1872,Other,Ultrabook,13.0,8,Windows 10,1.05,0,1,1,Intel Core i7,Intel HD,SSD
+174273.488064,Dell,Ultrabook,13.3,8,Windows 10,1.4,0,1,1,Intel Core i7,AMD,SSD
+110150.53919999998,Lenovo,Notebook,17.3,8,No OS,2.8,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+192810.19679999998,HP,Notebook,14.0,8,Windows 10,1.63,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+214877.7072,Dell,Ultrabook,14.0,8,Windows 10,1.6,0,0,1,Intel Core i5,Intel UHD,SSD
+239189.37119999997,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.62,1,0,1,Intel Core i7,Intel UHD,SSD
+126673.12008,Dell,Notebook,15.6,8,Linux,2.2,0,0,1,Intel Core i5,AMD,SSD
+168124.5072,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.74,0,1,1,Intel Core i5,Intel UHD,SSD
+254898.4464,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i7,Intel HD,SSD
+148488.16319999998,HP,Notebook,15.6,8,Windows 10,2.1,0,0,1,Intel Core i5,Intel UHD,HDD
+459367.02115199994,Dell,Gaming,17.3,16,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+155594.64959999998,Acer,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+160645.86532799999,Dell,Notebook,15.6,16,Windows 10,2.3,1,0,1,Intel Core i7,AMD,HDD
+143812.8432,Asus,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+166628.4048,Asus,Notebook,17.3,8,Windows 10,2.69,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+237319.24319999997,HP,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i7,AMD,HDD
+74616.237072,Asus,Notebook,15.6,4,Windows 10,2.37,0,0,0,Intel Core i3,Intel HD,HDD
+61714.22399999999,HP,Notebook,15.6,4,Windows 10,2.1,0,0,0,AMD,AMD,HDD
+280332.1872,Lenovo,Gaming,15.6,16,Windows 10,3.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+160643.99519999998,Dell,Notebook,14.0,8,Windows 10,1.6,0,0,1,Intel Core i5,Intel HD,SSD
+128851.81919999998,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,1,1,1,Intel Core i5,Intel HD,SSD
+168124.5072,Dell,Notebook,15.6,16,Linux,2.36,0,0,1,Intel Core i7,AMD,SSD
+72934.992,Acer,Notebook,15.6,4,Linux,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+107532.36,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,1,AMD,AMD,Hybrid
+727479.792,Asus,Gaming,17.3,32,Windows 10,4.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+158212.8288,Acer,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+110150.53919999998,Lenovo,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i3,Intel HD,SSD
+214129.656,Asus,Notebook,17.3,8,Windows 10,2.1,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+166254.3792,Asus,Notebook,17.3,8,No OS,2.69,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+164384.2512,Dell,Gaming,15.6,8,Windows 10,2.56,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+201786.8112,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1,1,1,Intel Core i7,Intel HD,SSD
+184207.608,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,AMD,Hybrid
+104540.1552,HP,Notebook,15.6,8,Windows 10,2.04,1,0,0,Intel Core i5,Intel HD,HDD
+560851.3872,Asus,Gaming,17.3,16,Windows 10,3.6,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+126233.64,HP,Notebook,13.3,4,Windows 10,1.49,0,1,1,Intel Core i5,Intel UHD,HDD
+381506.11199999996,Apple,Ultrabook,13.3,8,Other,1.37,0,1,0,Intel Core i5,Other,SSD
+153163.4832,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.08,1,1,1,Intel Core i7,Intel UHD,HDD
+336436.0272,Asus,Gaming,17.3,16,Windows 10,4.3,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+87709.00319999999,Asus,Notebook,15.6,4,Windows 10,1.68,0,0,0,AMD,AMD,HDD
+345786.66719999997,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.37,1,1,1,Intel Core i7,Intel UHD,SSD
+131282.98559999999,Acer,Notebook,17.3,4,Windows 10,3.0,0,1,1,Intel Core i3,Nvidia GeForce,SSD
+177475.1472,Dell,Ultrabook,13.3,8,Windows 10,1.41,0,0,1,Intel Core i5,Intel UHD,SSD
+83389.00752,HP,Notebook,15.6,8,Windows 10,1.91,0,0,0,AMD,AMD,SSD
+198046.55519999997,HP,Notebook,17.3,16,Windows 10,2.9,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+467344.9872,MSI,Gaming,17.3,16,Windows 10,4.14,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+317734.7472,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1,1,1,Intel Core i7,Nvidia GeForce,SSD
+213568.6176,Dell,Notebook,17.3,8,Windows 10,2.8,0,0,1,Intel Core i7,AMD,Hybrid
+83033.6832,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,1,Intel Core i3,Intel HD,SSD
+135023.2416,HP,Notebook,15.6,4,Windows 10,2.1,0,1,1,Intel Core i5,Intel HD,HDD
+122867.40959999998,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,1,Intel Core i5,Intel HD,HDD
+105662.23199999999,Dell,Notebook,15.6,8,Windows 10,2.24,0,0,1,Intel Core i5,AMD,HDD
+149423.2272,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.67,1,0,1,Intel Core i5,Intel UHD,SSD
+280332.1872,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1,0,1,Intel Core i7,Intel UHD,SSD
+87334.97759999998,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,1,Intel Core i5,Intel HD,HDD
+190379.0304,HP,Notebook,17.3,8,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+164571.264,Lenovo,Notebook,15.6,8,Windows 10,2.05,0,0,1,Intel Core i7,Intel UHD,SSD
+366339.37392,Apple,Ultrabook,13.3,8,Other,1.37,0,1,0,Intel Core i5,Other,SSD
+289682.8272,Asus,Gaming,17.3,16,Windows 10,3.2,0,0,1,AMD,AMD,Hybrid
+137467.498896,Dell,Notebook,15.6,8,Linux,2.14,0,0,1,Intel Core i7,AMD,SSD
+467344.9872,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.36,1,0,0,Intel Core i7,Intel HD,SSD
+151854.39359999998,Toshiba,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i7,Nvidia GeForce,HDD
+133353.217296,Dell,Notebook,15.6,12,Windows 10,2.3,0,0,0,Intel Core i7,Intel HD,HDD
+205527.0672,Dell,Notebook,17.3,8,Linux,2.8,0,0,1,Intel Core i7,AMD,Hybrid
+139324.536,Acer,Notebook,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+91449.25919999999,Lenovo,Notebook,17.3,4,Windows 10,2.8,0,0,0,Intel Core i3,Intel HD,HDD
+158773.8672,Lenovo,Notebook,17.3,8,No OS,2.8,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+160643.99519999998,Lenovo,Notebook,17.3,6,Windows 10,2.8,0,0,0,Intel Core i7,Nvidia GeForce,Hybrid
+80041.47839999999,Dell,Notebook,15.6,4,Linux,2.25,0,0,1,Intel Core i3,AMD,HDD
+155033.6112,Lenovo,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+108280.41119999999,Lenovo,Notebook,15.6,6,Windows 10,2.2,0,0,1,Intel Core i5,Intel HD,SSD
+177849.17279999997,Acer,Notebook,15.6,8,Windows 10,3.0,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+123241.43519999998,Acer,Notebook,15.6,12,Windows 10,2.15,1,1,1,Intel Core i7,Intel HD,HDD
+205153.0416,Lenovo,Notebook,15.6,8,Windows 10,1.95,0,1,1,Intel Core i7,Intel HD,SSD
+182711.50559999997,Asus,Ultrabook,15.6,8,Windows 10,1.7,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+220488.0912,Lenovo,Gaming,15.6,16,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+123243.30532799999,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+37215.54719999999,Acer,Notebook,15.6,2,Other,2.19,0,0,0,Intel Celeron Dual,Intel HD,SSD
+221984.1936,Asus,Gaming,17.3,8,Windows 10,3.0,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+91449.25919999999,HP,Notebook,17.3,8,Windows 10,2.54,0,0,0,Intel Core i3,Intel HD,HDD
+342046.4112,Dell,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+138202.45919999998,Lenovo,Notebook,15.6,8,Windows 10,2.05,0,0,1,Intel Core i5,Intel UHD,SSD
+242929.6272,Lenovo,Gaming,15.6,8,Windows 10,3.2,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+183085.5312,Acer,Notebook,15.6,8,Linux,2.5,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+539505.746208,Dell,Workstation,17.3,16,Windows 10,3.42,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+93319.3872,Lenovo,Notebook,15.6,6,Windows 10,2.4,0,0,1,AMD,AMD,HDD
+274534.79039999994,Asus,Ultrabook,15.6,16,Windows 10,1.63,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+95189.5152,Asus,Notebook,14.0,4,Windows 10,1.3,0,0,0,Intel Core i3,Intel HD,SSD
+396841.1616,Asus,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+121371.3072,Lenovo,Notebook,17.3,6,Windows 10,2.8,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+102670.0272,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+236571.19199999998,Asus,Gaming,15.6,8,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+67322.73787199998,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,0,Other,Intel HD,HDD
+369350.27999999997,HP,2 in 1 Convertible,13.3,16,Windows 10,1.28,1,0,1,Intel Core i7,Intel HD,SSD
+195054.3504,Toshiba,Notebook,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+153163.4832,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+87709.00319999999,HP,Notebook,15.6,4,Windows 10,1.86,0,0,1,Intel Core i3,Intel HD,HDD
+186825.7872,Lenovo,Notebook,13.3,8,Windows 10,1.1,0,1,1,Intel Core i5,Intel HD,SSD
+467344.9872,Dell,Ultrabook,13.3,16,Windows 10,1.21,1,1,1,Intel Core i7,Intel UHD,SSD
+392539.8672,MSI,Gaming,15.6,16,Windows 10,2.8,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+87709.00319999999,Acer,Notebook,15.6,8,Windows 10,2.23,0,0,1,AMD,AMD,SSD
+51428.52,Asus,2 in 1 Convertible,11.6,2,Windows 10,1.1,1,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+157838.8032,Dell,Notebook,15.6,8,Windows 10,2.33,0,0,1,Intel Core i5,AMD,Hybrid
+457994.34719999996,HP,2 in 1 Convertible,13.3,16,Windows 10,1.29,1,1,1,Intel Core i7,Intel UHD,SSD
+86007.18672,Lenovo,Notebook,13.3,4,Other,1.45,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+183272.544,HP,Notebook,14.0,8,Windows 10,1.95,0,0,1,Intel Core i5,Intel HD,SSD
+90701.208,Acer,Notebook,11.6,4,Windows 10,1.4,0,0,0,Other,Intel HD,Flash Storage
+241620.53759999998,HP,Notebook,14.0,8,Windows 10,1.48,0,0,1,Intel Core i7,Intel HD,SSD
+110150.53919999998,Lenovo,Notebook,17.3,4,Windows 10,2.79,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+204592.00319999998,Asus,Notebook,14.0,8,Windows 10,2.0,0,0,1,Intel Core i7,Intel HD,SSD
+168685.54559999998,HP,Notebook,15.6,8,Windows 10,2.1,0,1,1,Intel Core i7,Intel UHD,HDD
+123241.43519999998,Acer,Notebook,15.6,8,Windows 10,2.2,0,0,0,AMD,AMD,SSD
+54607.7376,Lenovo,Notebook,14.0,4,Windows 10,1.44,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+102670.0272,Acer,Notebook,15.6,6,Windows 10,2.23,0,0,0,Intel Core i5,Intel HD,HDD
+196344.73872,Asus,Ultrabook,15.6,8,Windows 10,1.7,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+249662.088,HP,Ultrabook,12.5,8,Windows 10,1.26,0,0,1,Intel Core i7,Intel HD,SSD
+493526.77919999993,Dell,Notebook,15.6,32,Windows 10,2.06,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+224228.3472,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+176353.0704,Toshiba,Notebook,15.6,8,Windows 10,2.0,0,1,1,Intel Core i5,Intel HD,SSD
+249475.0752,Asus,Notebook,14.0,8,Windows 10,2.0,0,0,1,Intel Core i7,Intel HD,Hybrid
+83968.7472,Lenovo,Notebook,15.6,4,Windows 10,1.85,0,0,1,Intel Core i3,Intel HD,HDD
+186825.7872,Asus,Gaming,15.6,8,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+237132.23039999997,HP,Notebook,14.0,8,Windows 10,1.48,0,0,1,Intel Core i5,Intel HD,SSD
+196176.4272,Dell,Ultrabook,15.6,8,Windows 10,1.9,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+213942.6432,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i5,Intel HD,SSD
+51426.649871999995,Asus,Notebook,15.6,4,Linux,2.0,0,0,0,Intel Celeron Dual,Intel HD,HDD
+213708.8772,Dell,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+51409.818719999996,Dell,Notebook,15.6,4,Linux,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+168124.5072,Lenovo,Notebook,15.6,12,Windows 10,2.2,0,0,1,AMD,AMD,HDD
+133901.1648,HP,Notebook,15.6,8,Windows 10,2.1,0,1,1,Intel Core i3,Nvidia GeForce,HDD
+392539.8672,Lenovo,2 in 1 Convertible,13.9,16,Windows 10,1.4,1,1,1,Intel Core i7,Intel UHD,SSD
+295293.21119999996,Dell,Ultrabook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i7,Intel UHD,SSD
+211137.4512,Lenovo,Gaming,15.6,16,Windows 10,2.4,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+52176.5712,HP,Notebook,14.0,2,Windows 10,1.44,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+300709.101888,Dell,Ultrabook,15.6,16,Windows 10,1.88,0,0,1,Intel Core i7,Intel UHD,SSD
+70129.8,Asus,2 in 1 Convertible,11.6,4,Windows 10,1.5,1,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+123989.4864,Dell,Ultrabook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,AMD,HDD
+379153.490976,Dell,Notebook,15.6,16,Windows 10,2.06,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+243864.69119999997,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i7,Intel HD,SSD
+263501.0352,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+325078.73985599994,HP,Workstation,15.6,8,Windows 10,2.6,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+262378.95839999994,Toshiba,Notebook,15.6,16,Windows 10,2.4,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+181570.72751999996,Dell,Notebook,15.6,8,Windows 10,2.02,0,0,1,Intel Core i7,AMD,Hybrid
+60216.251472,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+186825.7872,Dell,Gaming,15.6,8,Windows 10,2.65,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+104235.32433599999,Dell,Notebook,15.6,8,Windows 10,2.36,1,0,0,Intel Core i5,Intel HD,HDD
+266867.2656,Dell,Notebook,14.0,8,Windows 10,1.36,0,0,1,Intel Core i5,Intel HD,SSD
+82098.61919999999,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,Intel Core i3,Intel HD,HDD
+176727.096,Asus,Notebook,14.0,8,Windows 10,2.0,0,0,1,Intel Core i5,Intel HD,SSD
+134462.2032,Lenovo,Notebook,17.3,6,Windows 10,2.8,0,0,0,Intel Core i5,Nvidia GeForce,Hybrid
+119501.17919999998,HP,Notebook,15.6,8,Windows 10,1.86,0,0,1,Intel Core i5,Intel HD,HDD
+93319.3872,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,0,Intel Core i3,Nvidia GeForce,SSD
+72747.97919999999,HP,Notebook,15.6,8,Windows 10,2.04,0,0,0,Other,Intel HD,HDD
+202908.888,Dell,Notebook,17.3,8,Windows 10,2.8,0,0,1,Intel Core i5,AMD,Hybrid
+151293.3552,Lenovo,Gaming,15.6,8,No OS,2.4,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+168124.5072,Dell,Notebook,15.6,8,Windows 10,2.33,0,0,1,Intel Core i7,AMD,SSD
+327272.39999999997,HP,Ultrabook,14.0,8,Windows 10,1.36,0,1,1,Intel Core i7,Intel HD,SSD
+205527.0672,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.26,1,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+79667.45279999998,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,AMD,AMD,SSD
+411241.1472,Asus,Gaming,17.3,16,Windows 10,3.25,0,1,1,AMD,AMD,Hybrid
+91449.25919999999,Lenovo,Notebook,17.3,4,Windows 10,2.6,0,0,0,AMD,AMD,SSD
+162515.99332799995,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1,0,1,Intel Core i7,Intel UHD,SSD
+91447.38907199999,HP,Notebook,15.6,4,Windows 10,1.91,0,0,1,AMD,AMD,SSD
+103418.0784,Lenovo,Netbook,11.6,4,Windows 10,1.59,0,1,0,Other,Intel HD,SSD
+57786.9552,Dell,Notebook,15.6,4,Windows 10,1.8,0,0,0,Intel Celeron Dual,Intel HD,HDD
+53485.6608,Asus,Notebook,14.0,4,Windows 10,1.5,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+158212.8288,Acer,Notebook,15.6,8,Linux,2.4,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+222732.2448,HP,Gaming,17.3,8,Windows 10,3.35,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+75459.6648,Lenovo,Notebook,15.6,4,No OS,1.85,0,0,1,Intel Core i3,Intel HD,SSD
+309506.18399999995,Asus,Gaming,15.6,8,Windows 10,2.3,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+205527.0672,Lenovo,Notebook,14.0,8,Windows 10,1.5,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+327066.68592,Asus,Ultrabook,13.3,16,Windows 10,1.1,1,0,1,Intel Core i7,Intel HD,SSD
+426763.2096,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,0,1,0,Intel Core i7,Intel HD,SSD
+102670.0272,Lenovo,Notebook,13.3,4,Windows 10,1.5,0,1,1,Intel Core i3,Intel HD,SSD
+256020.52319999997,Dell,Workstation,15.6,8,Windows 10,2.23,0,0,1,Intel Core i5,AMD,HDD
+399272.328,Dell,Workstation,15.6,8,Windows 10,2.0,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+469215.11519999994,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.42,1,0,0,Intel Core i7,Intel HD,SSD
+194306.29919999998,Asus,Gaming,17.3,8,Windows 10,3.0,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+297537.3648,Asus,Gaming,17.3,16,Windows 10,3.0,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+129785.01307199999,Acer,Notebook,15.6,12,Windows 10,2.2,0,1,0,Intel Core i5,Nvidia GeForce,HDD
+252280.2672,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+145658.659536,Dell,Notebook,15.6,8,Linux,2.33,0,0,1,Intel Core i7,AMD,SSD
+93319.3872,HP,Ultrabook,15.6,4,Windows 10,1.91,0,0,1,AMD,AMD,SSD
+229943.458368,Lenovo,Notebook,15.6,8,Windows 10,2.1,0,1,1,Intel Core i7,AMD,SSD
+175418.00639999998,Lenovo,Notebook,14.0,8,Windows 10,1.9,0,1,1,Intel Core i5,Intel HD,SSD
+507178.7135999999,Dell,Workstation,15.6,8,Windows 10,1.78,1,0,1,Intel Core i7,Nvidia Quadro,SSD
+490908.6,Lenovo,Ultrabook,14.0,16,Windows 10,1.13,0,1,0,Intel Core i7,Intel HD,SSD
+57225.9168,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+285942.57119999995,Asus,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+214036.14959999998,Lenovo,Notebook,15.6,8,Windows 10,2.1,0,1,1,Intel Core i5,AMD,Hybrid
+164384.2512,Acer,Notebook,15.6,8,Linux,2.5,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+420591.78719999996,MSI,Gaming,17.3,16,Windows 10,2.8,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+350274.9744,Asus,Ultrabook,14.0,8,Windows 10,1.1,0,0,1,Intel Core i7,Intel HD,SSD
+326711.3616,Toshiba,Ultrabook,13.3,16,Windows 10,1.2,0,0,1,Intel Core i7,Intel HD,SSD
+314181.50399999996,Dell,Ultrabook,14.0,8,Windows 10,1.36,0,0,1,Intel Core i7,Intel HD,SSD
+76488.2352,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,Intel HD,HDD
+56936.04695999999,Lenovo,Notebook,11.6,2,Windows 10,1.15,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+359999.63999999996,Lenovo,Workstation,15.6,8,Windows 10,2.67,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+363365.87039999996,Lenovo,Ultrabook,14.0,8,Windows 10,1.7,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+87709.00319999999,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,Intel Core i3,AMD,HDD
+147554.96932799998,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,1,1,1,Intel Core i7,Intel HD,SSD
+173547.8784,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.27,1,1,1,Intel Core i5,Intel HD,SSD
+112001.96591999999,Dell,Notebook,15.6,4,Linux,2.3,0,0,1,Intel Core i5,AMD,SSD
+128851.81919999998,Dell,Notebook,13.3,4,Windows 10,1.65,0,0,0,Intel Core i3,Intel HD,SSD
+280519.2,HP,Ultrabook,14.0,8,Windows 10,1.43,0,0,1,Intel Core i7,Intel HD,SSD
+100977.56135999999,Dell,Notebook,15.6,8,Windows 10,2.14,0,0,0,Intel Core i5,Intel HD,HDD
+227291.616864,Lenovo,Ultrabook,14.0,8,Windows 10,1.75,0,1,1,Intel Core i7,AMD,SSD
+355137.3072,Lenovo,2 in 1 Convertible,15.6,16,Windows 10,2.0,1,1,1,Intel Core i7,Nvidia GeForce,SSD
+83968.7472,Other,Notebook,12.3,6,Windows 10,1.4,0,1,0,Other,Intel HD,Flash Storage
+266867.2656,HP,Notebook,15.6,8,Windows 10,2.31,0,0,1,Intel Core i7,Intel HD,SSD
+111646.64159999999,Asus,Notebook,15.6,8,Linux,2.3,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+523448.8272,Dell,Gaming,17.3,16,Windows 10,4.42,0,1,0,Intel Core i7,Nvidia GeForce,Hybrid
+216747.83519999997,Dell,Gaming,15.6,8,Windows 10,2.62,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+213643.42271999997,Dell,Notebook,15.6,8,Windows 10,2.02,0,0,1,Intel Core i7,AMD,Hybrid
+205527.0672,Dell,Ultrabook,14.0,8,Linux,1.6,0,0,1,Intel Core i7,Intel HD,SSD
+373838.5872,HP,Gaming,17.3,12,Windows 10,3.35,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+55916.82719999999,Other,2 in 1 Convertible,11.6,4,Windows 10,1.16,1,1,1,Intel Celeron Dual,Intel HD,SSD
+50306.443199999994,Other,Netbook,11.6,4,Other,1.15,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+188882.92799999999,Lenovo,Notebook,13.3,8,Windows 10,1.4,0,1,1,Intel Core i7,Intel HD,SSD
+112020.6672,Lenovo,Notebook,14.0,4,Windows 10,1.7,0,1,1,Intel Core i3,Intel HD,SSD
+457246.296,Lenovo,Workstation,15.6,16,Windows 10,2.3,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+457994.34719999996,Lenovo,Notebook,15.6,16,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+316986.696,Asus,Gaming,17.3,8,Windows 10,3.2,0,0,1,AMD,AMD,Hybrid
+64893.4416,HP,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Celeron Dual,Intel HD,HDD
+411241.1472,Other,Ultrabook,12.3,16,Other,1.1,1,0,0,Intel Core i7,Intel HD,SSD
+445464.4896,Lenovo,Ultrabook,14.0,24,Windows 10,1.32,0,0,0,Intel Core i7,Intel HD,SSD
+104540.1552,Asus,Notebook,15.6,4,Linux,2.0,0,0,1,Intel Core i5,Intel HD,SSD
+97059.64319999999,Lenovo,Notebook,17.3,8,Windows 10,2.8,0,0,0,AMD,AMD,HDD
+140072.5872,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i5,AMD,SSD
+267241.2912,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,0,1,1,Intel Core i5,Intel HD,SSD
+65267.4672,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Other,Intel HD,SSD
+205527.0672,HP,Gaming,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+220488.0912,Dell,Notebook,14.0,8,Windows 10,1.64,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+82622.25503999999,Acer,Notebook,15.6,4,Linux,2.4,0,0,0,Intel Core i5,Intel HD,HDD
+372716.51039999997,Dell,Workstation,15.6,8,Windows 10,2.23,0,0,1,Other,Nvidia Quadro,HDD
+192200.535072,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+484176.1391999999,Other,Ultrabook,13.5,16,Other,1.25,1,0,0,Intel Core i7,Other,SSD
+110150.53919999998,HP,Notebook,15.6,8,Windows 10,1.91,0,0,0,Intel Core i5,Intel HD,SSD
+369350.27999999997,Dell,Workstation,15.6,16,Windows 10,2.17,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+286877.6352,HP,Workstation,15.6,8,Windows 10,2.31,0,1,1,Intel Core i7,Intel HD,SSD
+251532.21599999996,Lenovo,Notebook,14.0,8,Windows 10,1.65,0,0,1,Intel Core i5,Intel HD,SSD
+183085.5312,Dell,Notebook,15.6,8,Windows 10,2.36,0,0,1,Intel Core i7,AMD,Hybrid
+89579.13119999999,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.47,1,0,0,Other,Intel HD,HDD
+382628.1888,Dell,Notebook,17.3,8,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+184955.6592,Other,Ultrabook,13.5,4,Other,1.252,1,0,0,Other,Intel HD,SSD
+336436.0272,Other,Ultrabook,13.5,8,Other,1.25,1,0,0,Intel Core i7,Other,SSD
+119669.49072,HP,Notebook,17.3,8,Windows 10,2.5,0,0,0,Intel Core i3,Intel HD,SSD
+101734.9632,Acer,Notebook,15.6,4,Windows 10,2.23,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+81350.568,Acer,Netbook,11.6,4,Windows 10,1.4,0,0,0,Intel Celeron Dual,Intel HD,SSD
+140072.5872,Asus,Notebook,15.6,8,Windows 10,2.37,0,0,1,Intel Core i5,Intel HD,HDD
+149423.2272,Lenovo,Notebook,14.0,8,No OS,1.5,0,1,1,Intel Core i7,AMD,SSD
+390856.752,Lenovo,Notebook,15.6,8,Windows 10,2.67,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+56851.8912,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,0,Other,Intel HD,HDD
+87709.00319999999,Acer,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Core i3,Nvidia GeForce,HDD
+141942.71519999998,Dell,Notebook,15.6,8,Windows 10,2.02,0,0,1,Intel Core i5,AMD,HDD
+317734.7472,HP,Gaming,17.3,12,Windows 10,3.78,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+347469.7824,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,0,1,1,Intel Core i7,Intel HD,SSD
+373838.5872,HP,2 in 1 Convertible,13.3,8,Windows 10,1.29,1,1,1,Intel Core i7,Intel UHD,SSD
+215812.7712,HP,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,AMD,HDD
+238441.31999999998,Other,Ultrabook,12.3,8,Other,1.1,1,0,0,Intel Core i5,Intel HD,SSD
+344449.52567999996,Dell,Ultrabook,13.3,8,Windows 10,1.42,1,0,1,Intel Core i5,Intel UHD,SSD
+242929.6272,Asus,Notebook,15.6,12,Windows 10,2.06,0,1,1,Intel Core i7,Intel HD,Hybrid
+138389.47199999998,Dell,Notebook,14.0,8,Windows 10,1.79,0,0,0,Intel Core i3,Intel HD,SSD
+450326.8224,Dell,Workstation,15.6,8,Windows 10,1.78,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+255085.45919999998,Lenovo,Notebook,14.0,8,Windows 10,1.7,0,0,1,Intel Core i5,Intel HD,SSD
+126233.64,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,AMD,HDD
+312685.4016,Toshiba,Notebook,13.3,8,Windows 10,1.05,0,1,1,Intel Core i5,Intel HD,SSD
+236010.1536,Dell,Notebook,15.6,8,Windows 10,2.16,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+109701.70847999999,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i3,Intel HD,HDD
+135771.2928,HP,Notebook,13.3,4,Windows 10,1.49,0,1,1,Intel Core i5,Intel UHD,SSD
+46547.48592000001,Other,Notebook,15.6,4,Windows 10,1.89,0,0,1,Other,Intel HD,Flash Storage
+105662.23199999999,Lenovo,Notebook,15.6,4,Windows 10,2.3,0,0,0,Intel Core i3,Intel HD,SSD
+196176.4272,Lenovo,Notebook,14.0,8,Windows 10,1.75,0,1,1,Intel Core i5,Intel UHD,SSD
+437235.9264,Dell,Workstation,15.6,16,Windows 10,2.17,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+355137.3072,Dell,Notebook,15.6,16,Windows 10,2.06,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+336249.0144,Lenovo,Ultrabook,12.5,16,Windows 10,1.36,0,1,1,Intel Core i7,Intel HD,SSD
+364674.95999999996,Asus,Ultrabook,12.5,16,Windows 10,0.91,0,0,1,Intel Core i7,Intel HD,SSD
+189255.08347199997,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+523448.8272,Toshiba,Ultrabook,13.3,32,Windows 10,1.05,1,0,1,Intel Core i7,Intel HD,SSD
+252467.28,Asus,Gaming,15.6,8,Windows 10,1.99,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+108280.41119999999,Acer,Notebook,15.6,8,Windows 10,2.2,0,0,0,AMD,AMD,HDD
+237319.24319999997,Asus,Gaming,17.3,24,Windows 10,4.33,1,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+205527.0672,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,0,1,0,Intel Core i5,Intel HD,SSD
+168105.80591999996,Lenovo,Notebook,15.6,8,Windows 10,2.17,0,0,1,Intel Core i7,Intel UHD,SSD
+327085.3872,HP,Notebook,14.0,8,Windows 10,1.48,0,0,1,Intel Core i7,Intel HD,SSD
+177475.1472,Lenovo,Notebook,13.3,8,Windows 10,1.4,0,1,1,Intel Core i3,Intel HD,SSD
+170368.66079999998,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,1,1,Intel Core i5,Intel HD,SSD
+63584.352,Asus,Netbook,11.6,4,Other,1.2,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+115759.053072,HP,Notebook,15.6,8,Windows 10,1.91,0,0,0,Intel Core i5,AMD,SSD
+299033.4672,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.4,1,1,1,Intel Core i5,Intel UHD,SSD
+55916.82719999999,Lenovo,Notebook,14.0,4,Windows 10,2.1,0,0,0,Intel Celeron Dual,Intel HD,HDD
+49558.392,Lenovo,Netbook,11.6,4,Other,1.25,0,0,0,Intel Celeron Dual,Intel HD,SSD
+177475.1472,Lenovo,Notebook,13.3,8,Windows 10,1.44,0,0,1,Intel Core i5,Intel HD,SSD
+228903.6672,Asus,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i7,Intel HD,Hybrid
+114638.8464,Acer,Notebook,15.6,4,Windows 10,2.2,0,1,1,Intel Core i5,Nvidia GeForce,HDD
+247417.9344,HP,Ultrabook,13.3,8,Windows 10,1.34,0,1,1,Intel Core i7,Intel HD,SSD
+214877.7072,Lenovo,Gaming,15.6,8,No OS,2.4,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+168124.5072,Dell,Ultrabook,13.3,8,Windows 10,1.29,1,1,1,Intel Core i5,Intel HD,SSD
+119501.17919999998,Acer,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+156342.7008,Dell,Notebook,15.6,8,Windows 10,2.18,0,0,1,Intel Core i5,Intel HD,HDD
+228013.48627199995,Dell,Notebook,15.6,16,Windows 10,2.2,0,0,1,Intel Core i7,AMD,Hybrid
+261808.56935999996,Other,Notebook,15.6,16,No OS,1.95,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+45818.136,Asus,Netbook,11.6,2,Windows 10,1.1,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+97521.564816,HP,Notebook,15.6,4,Windows 10,2.04,1,0,0,Intel Core i5,Intel UHD,HDD
+555053.9904,Asus,Gaming,15.6,24,Windows 10,2.24,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+166254.3792,HP,Notebook,15.6,8,Windows 10,2.04,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+281267.25119999994,Asus,Gaming,17.3,16,Windows 10,3.0,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+261630.9072,Lenovo,Gaming,15.6,8,Windows 10,3.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+261630.9072,HP,Ultrabook,13.3,8,Windows 10,1.32,0,1,1,Intel Core i7,Intel HD,SSD
+239325.890544,Dell,Notebook,14.0,8,Windows 10,1.64,0,0,1,Intel Core i5,Intel HD,SSD
+128851.81919999998,HP,Notebook,15.6,4,Windows 10,1.63,0,0,0,Intel Core i3,Intel HD,SSD
+166254.3792,Dell,Notebook,17.3,8,Linux,2.8,0,1,1,Intel Core i5,AMD,Hybrid
+250597.15199999997,Lenovo,Notebook,14.0,8,Windows 7,2.02,0,0,1,Intel Core i5,Intel HD,SSD
+149423.2272,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+85838.8752,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,0,Intel Core i3,Nvidia GeForce,HDD
+109402.488,Dell,Notebook,15.6,4,Windows 10,2.3,0,0,1,Intel Core i5,AMD,HDD
+257516.62559999997,Dell,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,Intel HD,SSD
+563426.553456,Dell,Gaming,17.3,16,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+160831.008,Toshiba,Notebook,15.6,8,Windows 10,2.0,0,1,1,Intel Core i5,Intel HD,HDD
+242929.6272,Asus,Notebook,15.6,8,Windows 10,2.0,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+69007.7232,Other,Notebook,13.3,4,Windows 10,1.2,0,1,1,Other,Intel HD,SSD
+308384.10719999997,Asus,Gaming,15.6,8,Windows 10,2.3,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+256020.52319999997,Dell,Notebook,15.6,8,Windows 10,1.93,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+149125.87684799999,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,AMD,SSD
+74616.237072,HP,Notebook,15.6,4,Windows 10,1.86,0,0,1,Other,Intel HD,SSD
+336436.0272,HP,Gaming,17.3,12,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+160643.99519999998,Lenovo,Notebook,14.0,8,Windows 10,1.87,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+261630.9072,Dell,Ultrabook,13.3,8,Windows 10,1.2,1,0,1,Intel Core i7,Intel UHD,SSD
+137617.10913599998,Dell,Notebook,14.0,4,Windows 10,1.6,0,0,1,Intel Core i3,Intel HD,SSD
+214129.656,HP,Ultrabook,13.3,8,Windows 10,1.34,0,1,1,Intel Core i7,Intel HD,SSD
+149236.2144,Acer,Gaming,15.6,8,Linux,2.4,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+65267.4672,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,0,AMD,AMD,HDD
+131937.5304,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,Intel Core i3,Intel HD,SSD
+146805.048,Lenovo,Notebook,14.0,4,Windows 10,1.87,0,0,1,Intel Core i5,Intel HD,HDD
+86465.36808,Lenovo,Notebook,15.6,4,No OS,2.15,0,0,1,Intel Core i5,Intel HD,HDD
+74244.08159999999,HP,Notebook,15.6,4,Windows 10,1.86,0,0,1,Intel Core i3,Intel HD,HDD
+323345.13119999995,Lenovo,Notebook,15.6,8,Windows 10,1.99,0,1,1,Intel Core i7,Intel HD,SSD
+93319.3872,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,Intel HD,SSD
+208891.42747199998,Dell,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,Intel HD,SSD
+504747.5472,Dell,Gaming,17.3,16,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+101763.01512,HP,Notebook,17.3,8,Windows 10,2.65,0,0,0,Intel Core i3,Intel HD,HDD
+239376.38399999996,HP,Notebook,17.3,8,Windows 10,2.63,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+41890.86719999999,Asus,Notebook,15.6,4,Linux,2.0,0,0,0,Intel Celeron Dual,Intel HD,HDD
+47688.263999999996,Other,Notebook,13.3,4,Windows 10,1.35,0,1,1,Other,Intel HD,Flash Storage
+177475.1472,Lenovo,Notebook,17.3,6,Windows 10,2.8,0,0,0,Intel Core i7,Nvidia GeForce,Hybrid
+106391.58191999998,HP,Notebook,15.6,6,Windows 10,1.91,0,1,1,AMD,AMD,SSD
+115555.20911999998,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i3,AMD,HDD
+65267.4672,Acer,2 in 1 Convertible,11.6,4,Windows 10,1.25,1,1,1,Intel Celeron Dual,Intel HD,Flash Storage
+117818.064,Lenovo,Notebook,15.6,4,Windows 10,2.05,0,0,1,Intel Core i3,Intel HD,SSD
+367480.15199999994,HP,Ultrabook,13.3,16,Windows 10,1.16,1,1,1,Other,Intel HD,SSD
+560851.3872,Lenovo,Notebook,17.3,8,Windows 10,3.4,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+156903.73919999998,Asus,Notebook,15.6,8,Windows 10,2.5,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+299033.4672,Dell,Ultrabook,13.3,8,Windows 10,1.21,1,1,1,Intel Core i5,Intel UHD,SSD
+179345.27519999997,Dell,Notebook,15.6,4,Windows 10,1.93,0,0,0,Intel Core i5,Intel HD,HDD
+138202.45919999998,Other,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i5,Intel HD,HDD
+64332.40319999999,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Other,Intel HD,HDD
+185142.672,Lenovo,Notebook,14.0,4,Windows 10,2.02,0,0,0,Intel Core i5,Intel HD,HDD
+348028.950672,HP,Workstation,17.3,8,Windows 10,3.14,0,0,0,Intel Core i5,Nvidia Quadro,HDD
+72747.97919999999,HP,Notebook,14.0,8,Windows 10,1.94,0,0,0,Other,Intel HD,HDD
+121371.3072,HP,Notebook,15.6,6,Windows 10,1.95,0,1,1,AMD,AMD,SSD
+155220.62399999998,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,0,1,Intel Core i5,Intel HD,SSD
+128103.768,Lenovo,Notebook,15.6,4,Windows 10,2.05,0,0,1,Intel Core i5,Intel HD,HDD
+46566.18719999999,Other,Notebook,14.0,4,Windows 10,1.4,0,0,1,Other,Intel HD,SSD
+348778.872,Toshiba,Ultrabook,14.0,16,Windows 10,1.24,1,0,1,Intel Core i7,Intel HD,SSD
+498015.0863999999,Lenovo,Gaming,17.3,32,Windows 10,4.6,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+510357.93119999993,MSI,Gaming,17.3,16,Windows 10,4.14,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+140074.457328,Dell,Notebook,15.6,8,Linux,2.2,0,0,1,Intel Core i7,AMD,SSD
+72747.97919999999,Other,Notebook,14.0,4,Windows 10,1.45,0,1,1,Other,Intel HD,SSD
+188606.14905599997,Dell,Notebook,15.6,8,Windows 10,1.9,0,0,0,Intel Core i5,Intel HD,HDD
+134462.2032,HP,Notebook,13.3,4,Windows 10,1.49,0,0,1,Intel Core i3,Intel HD,SSD
+287511.608592,Dell,Notebook,15.6,16,Windows 10,1.93,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+55168.776,Dell,Netbook,11.6,4,Other,1.26,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+439293.0672,MSI,Gaming,17.3,16,Windows 10,4.5,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+280145.1744,HP,Gaming,17.3,16,Windows 10,3.78,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+312872.4144,Lenovo,Ultrabook,14.0,12,Windows 10,1.4,0,1,1,Intel Core i7,Intel HD,SSD
+113890.7952,Lenovo,Notebook,15.6,12,Windows 10,2.2,1,0,0,Intel Core i7,Intel HD,HDD
+331012.656,Asus,Gaming,17.3,8,Windows 10,2.73,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+138202.45919999998,Asus,2 in 1 Convertible,15.6,8,Windows 10,2.2,1,0,0,Intel Core i5,Intel HD,HDD
+177475.1472,Lenovo,Notebook,15.6,12,Windows 10,2.2,0,0,1,AMD,AMD,SSD
+112768.7184,Dell,2 in 1 Convertible,11.6,4,Windows 10,1.39,1,0,0,Other,Intel HD,SSD
+317734.7472,Other,Notebook,15.6,16,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+98929.77119999999,Lenovo,Notebook,17.3,4,No OS,2.8,0,0,1,Intel Core i3,Intel HD,HDD
+85838.8752,Lenovo,Notebook,15.6,8,Windows 10,2.29,0,0,0,Intel Core i3,Intel HD,HDD
+378700.92,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1,1,1,Intel Core i7,Intel HD,SSD
+275656.8672,Lenovo,Notebook,14.0,8,Windows 10,1.7,0,1,1,Intel Core i5,Intel HD,SSD
+312311.37599999993,Dell,2 in 1 Convertible,12.5,8,Windows 10,1.34,1,0,1,Intel Core i5,Intel HD,SSD
+329703.56639999995,Dell,Workstation,15.6,8,Windows 10,2.06,1,0,1,Intel Core i7,Nvidia Quadro,SSD
+227968.60319999998,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i7,Intel HD,SSD
+125014.31654399999,HP,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+61527.21119999999,Acer,Notebook,14.0,4,Windows 10,1.6,0,0,1,Other,Intel HD,Flash Storage
+411241.1472,MSI,Gaming,17.3,16,Windows 10,4.14,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+86960.95199999999,Dell,Notebook,15.6,4,Linux,2.18,0,0,0,Intel Core i3,AMD,HDD
+429942.4272,MSI,Gaming,15.6,16,Windows 10,1.8,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+261630.9072,Toshiba,Notebook,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Intel HD,SSD
+105475.21919999999,Lenovo,Notebook,15.6,6,Windows 10,2.4,0,0,1,Intel Core i5,Intel HD,HDD
+242929.6272,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.0,1,1,1,Intel Core i7,Intel HD,SSD
+65267.4672,Acer,Notebook,14.0,4,Windows 10,1.6,0,0,0,Other,Intel HD,Flash Storage
+916175.7072,Lenovo,Notebook,15.6,32,Windows 10,2.5,0,1,1,Other,Nvidia Quadro,SSD
+164386.121328,Dell,Gaming,15.6,16,Windows 10,2.59,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+83014.98191999999,Dell,Notebook,15.6,4,Linux,2.18,0,0,0,Intel Core i3,Intel HD,HDD
+67137.5952,Dell,Notebook,15.6,4,Linux,2.25,0,0,0,Intel Core i3,Intel HD,HDD
+162514.1232,Dell,Notebook,15.6,4,Linux,1.93,0,0,0,Intel Core i5,Intel HD,HDD
+218430.9504,Asus,Gaming,17.3,8,Windows 10,3.0,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+106410.28319999999,Dell,Notebook,15.6,4,Linux,2.18,0,0,1,Intel Core i5,AMD,SSD
+259760.7792,HP,Ultrabook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i7,Intel HD,SSD
+424118.848608,MSI,Gaming,15.6,16,Windows 10,2.94,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+70877.85119999999,Acer,2 in 1 Convertible,11.6,4,Other,1.25,1,1,0,Other,Intel HD,Flash Storage
+210202.3872,HP,Notebook,14.0,8,Windows 10,2.31,0,0,0,Intel Core i5,Intel HD,SSD
+273973.752,Lenovo,Notebook,14.0,8,Windows 7,1.65,0,0,1,Intel Core i5,Intel HD,SSD
+145121.93279999998,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i5,AMD,HDD
+149423.2272,Other,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i5,Intel HD,SSD
+174295.92959999997,HP,Notebook,15.6,4,Windows 7,1.88,0,0,0,Intel Core i5,Intel HD,HDD
+168124.5072,Lenovo,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+44696.059199999996,Other,Notebook,14.0,2,Windows 10,1.4,0,0,1,Other,Intel HD,Flash Storage
+87521.9904,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,1,Intel Core i5,Intel HD,SSD
+119503.049328,Asus,2 in 1 Convertible,13.3,6,Windows 10,1.5,1,0,1,Intel Core i5,Intel HD,HDD
+340363.296,Dell,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+355324.32,Asus,Ultrabook,14.0,16,Windows 10,1.1,0,0,1,Intel Core i7,Intel HD,SSD
+276591.9312,Dell,Gaming,15.6,16,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+155033.6112,Lenovo,Notebook,15.6,4,Windows 10,1.8,0,0,1,Intel Core i5,Intel UHD,SSD
+108280.41119999999,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+74618.1072,Asus,Notebook,15.6,8,Windows 10,2.0,0,0,0,Intel Celeron Dual,Intel HD,HDD
+169549.544736,Asus,Notebook,15.6,8,Windows 10,1.99,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+349526.9232,Dell,Ultrabook,13.3,8,Windows 10,1.23,1,0,1,Intel Core i5,Intel UHD,SSD
+46566.18719999999,Lenovo,Notebook,14.0,2,Windows 10,1.42,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+328660.03497599997,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1,1,1,Intel Core i7,Intel HD,SSD
+448643.7072,Dell,Notebook,15.6,16,Windows 10,2.06,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+207397.1952,Lenovo,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+97414.96751999999,HP,Notebook,17.0,8,Windows 10,2.6,0,0,0,AMD,AMD,HDD
+458181.36,Lenovo,Ultrabook,14.0,16,Windows 10,1.14,0,1,1,Intel Core i7,Intel HD,SSD
+218617.9632,Asus,Gaming,15.6,8,No OS,2.5,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+84155.76,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,0,Intel Core i3,Intel HD,HDD
+51241.50719999999,Lenovo,Notebook,14.0,4,Windows 10,1.43,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+171864.7632,Acer,Ultrabook,14.0,8,Windows 10,1.8,0,1,1,Intel Core i5,Other,SSD
+486046.2672,Other,Gaming,14.0,16,Windows 10,1.95,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+226846.52639999997,Toshiba,Notebook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i5,Intel HD,SSD
+296228.2752,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,0,1,1,Intel Core i7,Intel HD,SSD
+523448.8272,Asus,Gaming,17.3,32,Windows 10,3.8,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+132592.0752,Acer,Gaming,15.6,8,Linux,2.4,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+271149.85872,Dell,Ultrabook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i5,Intel UHD,SSD
+222881.85503999997,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+68240.97072,HP,Notebook,15.6,4,No OS,1.86,0,0,0,Intel Core i3,Intel HD,HDD
+198981.6192,Toshiba,Notebook,15.6,8,Windows 10,2.0,0,1,1,Intel Core i5,Intel HD,HDD
+171864.7632,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,AMD,SSD
+212259.528,Dell,Notebook,15.6,16,Windows 10,2.2,0,0,1,Intel Core i7,AMD,Hybrid
+223667.30879999997,Lenovo,Gaming,15.6,8,Windows 10,3.31,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+588598.4763359999,Dell,Gaming,17.3,32,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+229838.7312,Dell,Notebook,14.0,8,Windows 10,1.56,0,0,1,Intel Core i5,Intel HD,SSD
+78358.36319999999,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+100051.848,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i5,Intel HD,HDD
+100799.89919999999,HP,Notebook,15.6,6,Windows 10,2.04,0,0,0,Intel Core i3,AMD,HDD
+278045.02065599995,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+93132.37439999999,Toshiba,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,SSD
+178597.224,Dell,Notebook,15.6,8,Windows 10,2.06,0,0,1,Intel Core i5,Intel HD,HDD
+139324.536,HP,Notebook,15.6,8,Windows 10,2.1,0,0,1,Intel Core i7,AMD,HDD
+235262.10239999995,Toshiba,Notebook,15.6,8,Windows 10,2.0,0,1,1,Intel Core i5,Intel HD,SSD
+77049.2736,Acer,Notebook,15.6,4,Linux,2.1,0,0,0,Intel Core i3,Intel HD,SSD
+349311.85847999994,Other,Ultrabook,13.5,8,Other,1.252,1,0,0,Intel Core i7,Other,SSD
+152967.11975999997,Lenovo,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,AMD,Hybrid
+193371.23519999997,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1,1,1,Intel Core i5,Intel HD,SSD
+65267.4672,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,0,AMD,AMD,SSD
+130721.9472,HP,2 in 1 Convertible,14.0,4,Windows 10,1.63,1,1,1,Intel Core i3,Nvidia GeForce,SSD
+241994.56319999995,MSI,Gaming,15.6,16,Windows 10,2.4,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+212259.528,Asus,Ultrabook,14.0,8,Windows 10,1.1,0,0,1,Intel Core i5,Intel HD,SSD
+92571.336,HP,2 in 1 Convertible,11.6,8,Other,1.4,1,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+429942.4272,Other,Ultrabook,15.6,8,Windows 10,1.09,0,1,1,Intel Core i7,Intel HD,SSD
+242929.6272,Acer,Gaming,15.6,16,Windows 10,2.5,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+186620.07312,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+78358.36319999999,Asus,Notebook,15.6,4,Windows 10,1.86,0,0,0,Intel Celeron Dual,Intel HD,SSD
+383563.25279999996,Dell,Gaming,15.6,16,Windows 10,3.21,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+130721.9472,HP,Notebook,17.3,4,Windows 10,2.5,0,1,1,Intel Core i3,AMD,SSD
+280332.1872,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.19,1,1,1,Intel Core i7,Intel UHD,SSD
+526207.266,Dell,Gaming,15.6,16,Windows 10,3.49,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+114565.91140799999,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,Intel Core i5,AMD,HDD
+102047.27457599997,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Core i3,AMD,HDD
+106410.28319999999,HP,Notebook,17.3,6,Windows 10,2.65,0,1,1,AMD,AMD,HDD
+59470.0704,Lenovo,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Celeron Dual,Intel HD,HDD
+70129.8,Acer,Notebook,14.0,4,Other,1.45,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+130721.9472,Lenovo,Notebook,14.0,4,Windows 10,1.7,0,0,1,Intel Core i5,Intel HD,SSD
+356818.552272,HP,Workstation,17.3,8,Windows 10,3.14,0,0,1,Intel Core i7,Nvidia Quadro,HDD
+484363.1519999999,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,1,0,0,Intel Core i7,Intel HD,SSD
+181963.4544,Toshiba,Notebook,13.3,8,Windows 10,1.5,0,1,1,Intel Core i5,Intel HD,SSD
+50306.443199999994,Acer,Netbook,11.6,4,Windows 10,1.4,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+327085.3872,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,1.38,1,0,1,Intel Core i7,Intel HD,SSD
+125111.56319999999,Asus,2 in 1 Convertible,12.5,4,Other,1.2,1,0,1,Other,Intel HD,Flash Storage
+351023.0256,Toshiba,Ultrabook,13.3,16,Windows 10,1.36,1,0,1,Intel Core i7,Intel HD,SSD
+128851.81919999998,HP,Notebook,15.6,4,Windows 10,2.1,0,1,1,Intel Core i7,AMD,HDD
+153163.4832,Dell,Gaming,15.6,8,Windows 10,2.56,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+74618.1072,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,AMD,AMD,SSD
+80228.49119999999,Lenovo,Notebook,15.6,8,Windows 10,2.2,0,0,0,AMD,AMD,HDD
+116219.10455999999,Lenovo,Notebook,15.6,4,Windows 10,2.1,0,0,1,Intel Core i5,Intel HD,HDD
+84155.76,Lenovo,Notebook,15.6,4,No OS,1.9,0,0,0,Intel Core i3,Intel HD,HDD
+148675.17599999998,Dell,Notebook,15.6,8,Windows 10,2.18,0,0,1,Intel Core i5,Intel HD,SSD
+186825.7872,Acer,2 in 1 Convertible,13.3,8,Windows 10,1.6,1,1,1,Intel Core i5,Intel UHD,SSD
+346908.74399999995,Lenovo,Workstation,15.6,16,Windows 7,2.18,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+222732.2448,Lenovo,Notebook,14.0,8,Windows 10,1.8,0,0,1,Intel Core i5,Intel HD,SSD
+122495.25412799997,HP,Notebook,17.3,6,Windows 10,2.71,0,1,1,AMD,AMD,HDD
+233578.9872,Lenovo,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+203656.9392,Dell,Notebook,14.0,8,Linux,1.64,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+135771.2928,Dell,Notebook,15.6,8,Linux,1.98,0,0,1,Intel Core i5,Intel HD,HDD
+55729.814399999996,Asus,Notebook,14.0,4,Windows 10,1.5,0,0,1,Intel Celeron Dual,Intel HD,Flash Storage
+266803.681248,Dell,Notebook,15.6,16,Windows 10,1.93,0,0,1,Intel Core i5,Intel HD,SSD
+160283.060496,Lenovo,Notebook,14.0,8,Windows 10,1.87,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+220488.0912,Dell,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,Intel HD,SSD
+55729.814399999996,Lenovo,Notebook,15.6,4,Windows 10,2.19,0,0,0,AMD,AMD,HDD
+49558.392,Other,Notebook,14.0,4,Windows 10,1.4,0,1,1,Other,Intel HD,HDD
+224415.36,HP,Notebook,17.3,8,Windows 10,2.63,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+315423.26899199997,Lenovo,Ultrabook,14.0,8,Windows 10,1.17,0,1,1,Intel Core i7,Intel HD,SSD
+156454.90848,HP,2 in 1 Convertible,13.3,8,Windows 10,1.58,1,1,0,Intel Core i5,Intel HD,SSD
+280332.1872,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,0,1,1,Intel Core i5,Intel HD,SSD
+684354.6403199999,Dell,Gaming,17.3,32,Windows 10,4.36,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+252183.020544,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+91617.57071999999,Lenovo,Notebook,15.6,4,No OS,1.9,0,0,0,Intel Core i5,Intel HD,HDD
+134462.2032,Dell,Notebook,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,AMD,Hybrid
+121371.3072,Dell,2 in 1 Convertible,13.3,4,Windows 10,1.71,1,0,1,Intel Core i3,Intel HD,HDD
+110247.78585599999,Dell,Notebook,15.6,8,Linux,2.32,0,0,0,Intel Core i5,AMD,HDD
+91449.25919999999,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,AMD,AMD,HDD
+361869.768,Acer,Gaming,17.3,16,Windows 10,4.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+121371.3072,Dell,Notebook,15.6,12,Windows 10,2.25,0,0,0,Intel Core i5,Intel HD,HDD
+121558.31999999999,HP,Notebook,15.6,6,Windows 10,2.1,0,0,1,AMD,AMD,Hybrid
+104540.1552,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,0,Intel Core i5,Intel HD,HDD
+179532.288,Lenovo,Notebook,13.3,8,Windows 10,1.44,0,1,1,Intel Core i5,Intel HD,SSD
+145682.9712,Lenovo,Notebook,15.6,4,Windows 10,1.85,0,0,1,Intel Core i7,Intel HD,HDD
+452383.9632,HP,Workstation,15.6,16,Windows 10,2.6,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+123241.43519999998,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.55,1,0,1,Intel Core i5,Intel UHD,HDD
+391694.569344,MSI,Gaming,15.6,16,Windows 10,1.8,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+76824.85823999999,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,0,Intel Core i3,Intel HD,HDD
+225724.4496,Dell,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+124363.51199999999,Dell,Notebook,15.6,8,Windows 10,2.0,0,0,0,Intel Core i3,Intel HD,SSD
+287064.648,Toshiba,Notebook,14.0,8,Windows 10,1.25,1,1,1,Intel Core i5,Intel HD,SSD
+186825.7872,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.7,1,0,1,Intel Core i5,Intel HD,SSD
+616955.2272,Lenovo,Workstation,15.6,16,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+61714.22399999999,Acer,Notebook,14.0,2,Other,1.68,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+308384.10719999997,Other,Ultrabook,13.3,16,Windows 10,0.81,0,0,1,Intel Core i7,Intel HD,SSD
+100799.89919999999,HP,Notebook,15.6,8,Windows 10,1.86,0,0,1,Intel Core i3,Intel HD,SSD
+210709.191888,Dell,Notebook,14.0,8,Windows 10,1.6,0,0,0,Intel Core i5,Intel HD,SSD
+820799.1792,HP,Workstation,17.3,16,Windows 7,3.0,0,1,1,Other,Nvidia Quadro,SSD
+88831.08,Lenovo,Netbook,11.6,4,Windows 10,1.4,1,0,0,Intel Celeron Dual,Intel HD,SSD
+355324.32,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i5,Intel HD,SSD
+108280.41119999999,Asus,Notebook,15.6,4,No OS,2.45,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+204966.02879999997,Lenovo,Ultrabook,14.0,4,Windows 10,1.7,0,0,1,Intel Core i5,Intel HD,SSD
+158942.17872,Asus,Notebook,15.6,4,Windows 10,2.37,0,0,0,Intel Core i7,Intel HD,SSD
+224228.3472,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.3,1,1,1,Intel Core i5,Intel HD,SSD
+205527.0672,HP,Notebook,15.6,8,Windows 10,2.2,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+291926.98079999996,HP,Workstation,15.6,8,Windows 7,2.59,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+536537.853072,Dell,Gaming,15.6,16,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+112020.6672,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i5,Intel HD,SSD
+195989.4144,Lenovo,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+347656.7952,Dell,Ultrabook,12.5,16,Windows 10,1.18,0,0,1,Intel Core i7,Intel HD,SSD
+291552.95519999997,Other,Ultrabook,12.3,8,Other,1.1,1,0,0,Intel Core i5,Intel HD,SSD
+211137.4512,Asus,Ultrabook,13.3,8,Windows 10,1.2,0,1,1,Intel Core i5,Intel HD,SSD
+158773.8672,Dell,Notebook,13.3,4,Windows 10,1.65,0,0,0,Intel Core i3,Intel HD,HDD
+122493.38399999999,Acer,Notebook,13.3,4,Windows 10,1.6,0,0,0,Intel Core i5,Intel HD,SSD
+87959.60035199998,Asus,Notebook,17.3,4,Windows 10,2.8,0,0,0,Other,Nvidia GeForce,HDD
+205527.0672,Dell,Gaming,15.6,16,Windows 10,2.72,1,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+299033.4672,Other,Ultrabook,13.3,8,Windows 10,1.31,1,0,1,Intel Core i7,Intel HD,SSD
+55729.814399999996,Acer,Notebook,15.6,4,Linux,2.1,0,0,0,Other,Intel HD,HDD
+220912.61025599999,Dell,Notebook,15.6,16,Windows 10,2.3,0,0,1,Intel Core i7,AMD,SSD
+336436.0272,Other,2 in 1 Convertible,15.0,16,Windows 10,1.71,1,0,1,Intel Core i7,AMD,SSD
+190753.05599999998,Toshiba,Notebook,14.0,4,Windows 10,1.75,0,1,0,Intel Core i5,Intel HD,SSD
+205527.0672,Dell,Gaming,15.6,8,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+232643.92319999996,HP,Ultrabook,12.5,4,Windows 10,1.26,0,0,0,Intel Core i5,Intel HD,SSD
+156903.73919999998,Asus,2 in 1 Convertible,15.6,12,Windows 10,2.3,1,0,1,Intel Core i7,Nvidia GeForce,HDD
+443220.336,Lenovo,Notebook,15.6,16,Windows 7,2.5,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+118940.1408,Acer,Notebook,14.0,4,Windows 10,1.8,0,1,1,Intel Core i3,Intel HD,SSD
+542150.1072,Other,Gaming,14.0,16,Windows 10,1.95,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+108822.74832,Asus,Notebook,15.6,8,Windows 10,2.0,0,0,0,Other,Intel HD,SSD
+671151.53664,Dell,Gaming,17.3,32,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+439480.07999999996,Asus,Gaming,17.3,16,Windows 10,4.3,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+329890.5792,Toshiba,Ultrabook,14.0,16,Windows 10,1.47,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+61527.21119999999,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,0,Other,Intel HD,HDD
+429942.4272,Lenovo,Ultrabook,14.0,16,Windows 10,1.7,0,0,1,Intel Core i7,Intel HD,SSD
+353641.20479999995,MSI,Gaming,14.0,16,Windows 10,1.6,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+203656.9392,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+186825.7872,Lenovo,Gaming,15.6,4,Windows 10,2.4,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+429942.4272,Acer,Gaming,17.3,16,Windows 10,4.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+184207.608,Dell,Gaming,15.6,8,Windows 10,2.62,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+250410.13919999998,Asus,Gaming,15.6,8,Windows 10,2.24,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+37944.89712,Other,Notebook,14.0,4,Windows 10,1.22,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+368415.216,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1,1,1,Intel Core i7,Intel HD,SSD
+179345.27519999997,Lenovo,2 in 1 Convertible,15.6,8,Windows 10,2.08,1,0,1,Intel Core i5,AMD,SSD
+217869.91199999998,Apple,Ultrabook,12.0,8,Other,0.92,0,1,0,Other,Intel HD,Flash Storage
+435739.82399999996,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.42,1,1,0,Intel Core i5,Intel HD,SSD
+55916.82719999999,Asus,Notebook,14.0,4,Windows 10,1.63,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+151480.368,Dell,Notebook,15.6,8,Windows 10,1.95,0,0,0,Intel Core i5,Intel HD,SSD
+252280.2672,Lenovo,2 in 1 Convertible,13.9,8,Windows 10,1.38,1,1,1,Intel Core i7,Intel HD,SSD
+138202.45919999998,Dell,Notebook,15.6,8,Windows 10,2.0,0,0,1,Intel Core i3,AMD,SSD
+386162.73072,HP,Workstation,15.6,8,Windows 10,3.14,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+205527.0672,Asus,Notebook,15.6,8,Windows 10,2.37,0,0,1,Intel Core i5,Intel HD,SSD
+280332.1872,Dell,Ultrabook,13.3,8,Windows 10,1.29,0,0,1,Intel Core i5,Intel HD,SSD
+327085.3872,Dell,Notebook,15.6,8,Windows 10,2.06,1,0,1,Intel Core i5,Nvidia GeForce,SSD
+139137.5232,Dell,Netbook,11.6,4,Windows 10,1.63,0,0,0,Other,Intel HD,SSD
+259760.7792,HP,Netbook,12.5,8,Windows 10,1.26,0,0,0,Intel Core i5,Intel HD,SSD
+145869.984,Toshiba,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i5,Intel HD,HDD
+117631.05119999997,HP,Notebook,15.6,8,Windows 10,2.04,0,0,0,AMD,AMD,HDD
+313994.4912,Dell,Gaming,15.6,16,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+113890.7952,Lenovo,Notebook,15.6,4,Windows 10,2.4,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+327085.3872,HP,Gaming,17.3,12,Windows 10,3.74,0,1,1,Intel Core i7,AMD,HDD
+451635.91199999995,MSI,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+280332.1872,Other,Ultrabook,13.3,8,Windows 10,0.81,0,0,1,Intel Core i5,Intel HD,SSD
+179719.3008,Dell,Notebook,15.6,8,Windows 10,1.98,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+147704.579568,Dell,Notebook,15.6,8,Windows 10,2.18,0,0,1,Intel Core i5,AMD,SSD
+347656.7952,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,0,0,1,Intel Core i7,Intel HD,SSD
+336436.0272,Other,Ultrabook,12.5,16,Windows 10,1.29,1,1,1,Intel Core i7,Intel HD,SSD
+71999.928,HP,Netbook,11.6,4,Other,1.23,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+468470.804256,Dell,Gaming,17.3,16,Windows 10,4.36,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+141194.664,Dell,Notebook,14.0,4,Windows 10,1.76,0,0,0,Intel Core i5,Intel HD,HDD
+91617.57071999999,Lenovo,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,HDD
+203843.952,Toshiba,Ultrabook,14.0,4,Windows 10,1.25,0,0,0,Intel Core i5,Intel HD,SSD
+467344.9872,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,0,1,1,Intel Core i7,Intel HD,SSD
+224228.3472,MSI,Gaming,15.6,8,Windows 10,2.4,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+350649.0,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,0,1,1,Intel Core i5,Intel HD,Flash Storage
+93319.3872,Toshiba,Notebook,14.0,4,Windows 10,1.75,0,0,0,Other,Intel HD,SSD
+253963.38239999994,Asus,2 in 1 Convertible,13.3,8,Windows 10,1.1,1,0,1,Intel Core i5,Intel HD,SSD
+109402.488,Dell,Notebook,14.0,4,Windows 10,1.76,0,0,0,Intel Core i3,Intel HD,HDD
+66389.544,Acer,Netbook,11.6,4,Other,1.35,0,1,0,Intel Celeron Dual,Intel HD,Flash Storage
+115760.92319999999,Acer,Notebook,14.0,8,Windows 10,1.5,0,1,1,Intel Core i3,Intel HD,SSD
+1028383.3871999999,Other,Gaming,17.3,32,Windows 10,3.49,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+392539.8672,Lenovo,Ultrabook,14.0,16,Windows 10,1.1,0,1,1,Intel Core i7,Intel HD,SSD
+97059.64319999999,Asus,Notebook,15.6,4,Linux,2.1,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+221797.1808,Lenovo,Notebook,14.0,8,Windows 10,1.7,0,0,1,Intel Core i5,Intel HD,SSD
+308571.12,Lenovo,Notebook,14.0,8,Windows 10,1.32,0,1,1,Intel Core i5,Intel HD,SSD
+518891.3252639999,Dell,Gaming,15.6,16,Windows 10,3.21,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+452383.9632,Asus,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+125111.56319999999,Toshiba,Notebook,15.6,4,Windows 10,2.0,0,0,0,Intel Core i3,Intel HD,HDD
+60779.159999999996,Lenovo,Notebook,14.0,4,Other,1.5,0,0,0,Other,Intel HD,Flash Storage
+110337.552,Asus,Notebook,15.6,8,Windows 10,2.3,0,0,1,Intel Core i5,Intel HD,HDD
+336436.0272,Asus,Gaming,17.3,16,Windows 10,2.73,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+574669.7629919999,Dell,Gaming,17.3,32,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+170181.648,HP,Notebook,17.3,8,Windows 10,2.63,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+133525.269072,Dell,Notebook,15.6,8,Windows 10,2.18,0,0,0,Intel Core i5,Intel HD,SSD
+349713.936,HP,Ultrabook,14.0,8,Windows 7,1.54,0,0,1,Intel Core i7,Intel HD,SSD
+138202.45919999998,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,1,Intel Core i7,AMD,SSD
+115012.87199999999,HP,2 in 1 Convertible,11.6,4,Other,1.4,1,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+191875.1328,Asus,Ultrabook,13.3,8,Windows 10,1.45,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+425828.1456,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,1,0,1,Intel Core i5,Intel HD,SSD
+274534.79039999994,HP,Ultrabook,14.0,8,Windows 10,1.54,0,0,1,Intel Core i7,Intel HD,SSD
+55916.82719999999,HP,Notebook,15.6,4,No OS,1.86,0,0,0,Intel Celeron Dual,Intel HD,SSD
+355137.3072,Asus,Gaming,15.6,16,Windows 10,2.1,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+161766.072,Dell,Notebook,17.3,8,Linux,2.83,0,0,1,Intel Core i7,AMD,HDD
+355885.35839999997,Lenovo,Ultrabook,14.0,8,Windows 10,1.96,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+147179.0736,Asus,Notebook,15.6,8,Windows 10,2.3,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+176727.096,Dell,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,Intel HD,SSD
+83968.7472,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,0,Other,Intel HD,HDD
+478565.75519999996,HP,2 in 1 Convertible,13.3,8,Windows 10,1.28,1,0,1,Intel Core i7,Intel HD,SSD
+121371.3072,Dell,Notebook,13.3,8,Windows 10,1.62,1,0,1,Intel Core i5,Intel HD,HDD
+87709.00319999999,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,1,Intel Core i3,Intel HD,HDD
+159084.308448,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,1,1,Intel Core i5,Intel HD,HDD
+252280.2672,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i5,AMD,SSD
+240311.448,Toshiba,Notebook,13.3,4,Windows 10,1.05,0,0,1,Intel Core i5,Intel HD,SSD
+190192.0176,Lenovo,Gaming,15.6,8,No OS,2.5,0,1,1,Intel Core i5,Nvidia GeForce,HDD
+418908.67199999996,Dell,Ultrabook,13.3,16,Windows 10,1.29,1,0,1,Intel Core i7,Other,SSD
+170181.648,HP,Notebook,15.6,4,Windows 10,2.07,0,0,1,Intel Core i5,Intel HD,HDD
+204779.01599999997,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,0,0,0,Intel Core i5,Intel HD,SSD
+364674.95999999996,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1,1,1,Intel Core i7,Intel HD,SSD
+168685.54559999998,Acer,Notebook,14.0,8,Windows 10,1.56,0,1,1,Intel Core i5,Intel HD,SSD
+332508.7584,Dell,Workstation,15.6,8,Windows 10,2.23,0,0,1,Intel Core i7,Nvidia Quadro,HDD
+197298.504,Lenovo,Notebook,15.6,4,Windows 10,2.38,0,0,0,Intel Core i5,Intel HD,HDD
+89579.13119999999,Lenovo,Notebook,15.6,4,No OS,2.2,0,0,1,Intel Core i3,AMD,HDD
+259573.7664,Toshiba,Notebook,15.6,8,Windows 10,2.0,0,1,1,Intel Core i7,Intel HD,SSD
+137454.408,Lenovo,Notebook,13.3,4,Windows 10,1.44,0,1,1,Intel Core i3,Intel HD,SSD
+345786.66719999997,Other,Ultrabook,15.0,16,Windows 10,1.23,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+316051.632,Dell,Ultrabook,12.5,8,Windows 10,1.6,0,0,1,Intel Core i7,Intel HD,SSD
+74616.237072,Asus,Notebook,15.6,4,Linux,2.0,0,0,0,Other,Intel HD,HDD
+174856.968,Other,Ultrabook,13.3,8,Windows 10,1.28,0,1,1,Intel Core i5,Nvidia GeForce,SSD
+170649.18,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+156903.73919999998,HP,Notebook,15.6,4,Windows 10,2.04,0,0,1,Intel Core i5,Intel HD,SSD
+317921.76,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1,0,1,Intel Core i5,Intel HD,SSD
+128066.36543999997,HP,2 in 1 Convertible,15.6,4,Windows 10,2.3,1,0,0,Intel Core i5,Intel HD,HDD
+65080.454399999995,Asus,Notebook,14.1,4,Windows 10,1.65,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+125111.56319999999,Lenovo,Notebook,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+69007.7232,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,0,Other,Intel HD,HDD
+336436.0272,HP,2 in 1 Convertible,13.3,4,Windows 10,1.28,1,0,1,Intel Core i5,Intel HD,SSD
+85221.73296,Dell,Notebook,15.6,4,Linux,2.18,0,0,0,Intel Core i3,AMD,HDD
+256188.83471999998,Asus,Gaming,17.3,12,Windows 10,2.2,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+55542.8016,Acer,Netbook,11.6,4,Other,1.25,0,1,0,Intel Celeron Dual,Intel HD,Flash Storage
+70877.85119999999,Lenovo,Notebook,17.3,4,Windows 10,2.8,0,0,0,AMD,AMD,HDD
+236571.19199999998,HP,Notebook,14.0,4,Windows 10,1.95,0,0,1,Intel Core i5,Intel HD,SSD
+261630.9072,HP,2 in 1 Convertible,13.3,16,Windows 10,1.42,1,0,1,Intel Core i7,Intel HD,SSD
+317734.7472,Other,Ultrabook,15.0,8,Windows 10,1.17,0,0,1,Intel Core i7,Intel HD,SSD
+336436.0272,Lenovo,Ultrabook,14.0,8,Windows 10,1.32,0,1,1,Intel Core i5,Intel HD,SSD
+495396.90719999996,MSI,Gaming,17.3,16,Windows 10,2.43,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+275843.88,Toshiba,Notebook,13.3,8,Windows 10,1.05,0,0,1,Intel Core i5,Intel HD,SSD
+173734.8912,Dell,Gaming,15.6,8,Linux,2.62,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+168311.52,HP,Notebook,15.6,8,Windows 10,2.04,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+114825.85919999999,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i3,AMD,HDD
+174856.968,Dell,Notebook,15.6,8,Windows 10,1.9,0,0,1,Intel Core i5,Intel HD,HDD
+376475.46767999994,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1,0,1,Intel Core i7,Intel HD,SSD
+239189.37119999997,Asus,Gaming,17.3,32,Windows 10,3.58,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+308384.10719999997,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1,0,1,Intel Core i7,Intel HD,SSD
+383189.22719999996,Lenovo,Ultrabook,14.0,8,Windows 10,1.13,0,1,1,Intel Core i7,Intel HD,Flash Storage
+367104.25627199997,Lenovo,Notebook,15.6,8,Windows 10,1.95,0,1,1,Intel Core i5,Intel HD,SSD
+392539.8672,Other,Ultrabook,15.6,16,Windows 10,1.08,1,1,1,Intel Core i7,Intel HD,SSD
+277339.9824,HP,Netbook,12.5,8,Windows 10,1.26,0,0,1,Intel Core i7,Intel HD,SSD
+67137.5952,Acer,Notebook,15.6,4,Other,2.2,0,1,1,Intel Celeron Dual,Intel HD,Flash Storage
+147553.0992,Lenovo,Notebook,15.6,8,Windows 10,2.6,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+355137.3072,Other,Ultrabook,14.0,8,Windows 10,0.98,1,1,1,Intel Core i7,Intel HD,SSD
+225350.424,Dell,Notebook,14.0,8,Windows 10,1.6,0,0,1,Intel Core i5,Intel HD,SSD
+579739.6799999999,HP,Ultrabook,12.5,8,Windows 10,1.09,1,0,1,Other,Intel HD,SSD
+147553.0992,Lenovo,Notebook,15.6,6,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+190564.17307199995,HP,Notebook,15.6,8,Windows 10,2.04,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+93319.3872,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,1,Intel Core i3,Intel HD,HDD
+164758.2768,Lenovo,Notebook,13.3,4,Windows 10,1.44,0,0,1,Intel Core i5,Intel HD,SSD
+179532.288,HP,Notebook,13.3,8,Windows 10,1.49,0,0,1,Intel Core i5,Intel HD,SSD
+299033.4672,MSI,Gaming,17.3,16,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+252280.2672,Dell,Gaming,15.6,16,Windows 10,2.6,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+209437.504848,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+128101.897872,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i5,AMD,HDD
+242553.73147199996,HP,Ultrabook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i7,AMD,SSD
+214877.7072,HP,Ultrabook,13.3,8,Windows 10,1.39,1,0,1,Intel Core i7,Intel HD,SSD
+369350.27999999997,Toshiba,Notebook,15.6,16,Windows 10,2.4,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+341298.36,Lenovo,2 in 1 Convertible,13.3,8,Windows 10,1.37,1,1,1,Intel Core i5,Intel HD,SSD
+136500.64272,Dell,Notebook,15.6,4,Windows 10,1.95,0,0,0,Intel Core i5,Intel HD,HDD
+308571.12,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,0,1,1,Intel Core i7,Intel HD,SSD
+217869.91199999998,HP,Notebook,15.6,8,Windows 10,2.31,0,0,1,Intel Core i5,Intel HD,SSD
+132416.283168,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i5,Intel HD,HDD
+214877.7072,HP,Notebook,14.0,4,Windows 10,1.95,0,0,0,Intel Core i5,Intel HD,HDD
+57786.9552,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,0,Other,Intel HD,HDD
+295293.21119999996,HP,Ultrabook,12.5,4,Windows 10,1.26,0,0,1,Intel Core i5,Intel HD,HDD
+54027.99792,HP,Notebook,15.6,4,No OS,1.86,0,0,0,Intel Celeron Dual,Intel HD,HDD
+336436.0272,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1,1,1,Intel Core i7,Other,SSD
+206649.144,Toshiba,Notebook,14.0,4,Windows 10,1.47,0,1,1,Intel Core i5,Intel HD,SSD
+312124.36319999996,HP,Netbook,12.5,8,Windows 10,1.26,0,0,1,Intel Core i5,Intel HD,SSD
+104465.35007999999,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i3,Intel HD,HDD
+224228.3472,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+306513.9792,Dell,Ultrabook,14.0,8,Windows 10,1.36,0,0,1,Intel Core i5,Intel HD,SSD
+515781.3023999999,Dell,Gaming,17.3,16,Windows 10,4.36,0,0,0,Intel Core i7,Nvidia GeForce,Hybrid
+261630.9072,HP,Gaming,17.3,8,Windows 10,2.75,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+99116.784,Asus,Notebook,17.3,4,Windows 10,2.8,0,0,0,Other,Nvidia GeForce,HDD
+115760.92319999999,Acer,Notebook,15.6,4,Windows 10,2.23,0,0,0,Intel Core i5,Intel HD,HDD
+209267.32319999998,Toshiba,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i5,Intel HD,SSD
+242929.6272,Lenovo,2 in 1 Convertible,11.3,8,Windows 10,1.1,1,1,1,Other,Intel HD,SSD
+186825.7872,Lenovo,Gaming,15.6,16,Windows 10,2.5,0,1,1,AMD,AMD,Hybrid
+275320.24416,Dell,Ultrabook,12.5,8,Windows 10,1.36,1,0,1,Intel Core i5,Intel HD,SSD
+128103.768,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+123241.43519999998,Dell,Notebook,17.3,4,Windows 10,2.36,0,0,0,Intel Core i3,AMD,HDD
+65267.4672,Acer,Notebook,14.0,4,Other,1.68,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+420591.78719999996,HP,Workstation,15.6,8,Windows 10,2.0,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+331947.72,Dell,Ultrabook,14.0,8,Windows 10,1.36,0,0,1,Intel Core i7,Intel HD,SSD
+273038.68799999997,Toshiba,Notebook,13.3,8,Windows 7,1.2,0,0,1,Intel Core i5,Intel HD,SSD
+216747.83519999997,Asus,2 in 1 Convertible,12.5,8,Other,1.2,0,0,1,Other,Intel HD,Flash Storage
+278460.189072,Lenovo,Ultrabook,14.0,8,Windows 10,1.7,0,1,1,Intel Core i7,Intel HD,SSD
+589838.3711999999,Dell,Gaming,17.3,16,Windows 10,4.36,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+355137.3072,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1,0,1,Intel Core i5,Intel HD,SSD
+144934.91999999998,HP,2 in 1 Convertible,11.6,4,Windows 10,1.45,1,0,0,Other,Intel HD,SSD
+237132.23039999997,Dell,Ultrabook,13.3,8,Windows 10,1.3,0,0,1,Intel Core i7,Intel HD,SSD
+72747.97919999999,Acer,2 in 1 Convertible,11.6,4,Other,1.25,1,1,0,Intel Celeron Dual,Intel HD,Flash Storage
+287064.648,Toshiba,Notebook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i5,Intel HD,SSD
+329142.528,Lenovo,Ultrabook,12.5,8,Windows 10,1.36,0,1,1,Intel Core i5,Intel HD,SSD
+188695.9152,Acer,Notebook,15.6,12,Windows 10,2.4,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+334752.91199999995,Toshiba,Ultrabook,12.5,8,Windows 10,1.1,1,0,1,Intel Core i7,Intel HD,SSD
+158306.33519999997,HP,Notebook,15.6,8,Windows 10,2.04,0,0,0,Intel Core i5,Nvidia GeForce,HDD
+87076.89993599999,Dell,Notebook,15.6,4,Linux,2.25,0,0,0,Intel Core i3,AMD,HDD
+154285.56,Dell,Notebook,15.6,4,Windows 10,1.9,0,0,0,Intel Core i5,Intel HD,HDD
+128103.768,HP,Notebook,15.6,4,Windows 10,2.04,0,0,1,Intel Core i3,Intel HD,HDD
+588903.3071999999,Dell,Gaming,17.3,32,Windows 10,4.42,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+129973.896,Lenovo,Notebook,15.6,6,Windows 10,2.4,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+355137.3072,Dell,2 in 1 Convertible,13.3,16,Windows 10,1.22,1,0,1,Intel Core i7,Intel HD,SSD
+367102.38614399993,Dell,Ultrabook,14.0,8,Windows 10,1.5,1,0,0,Intel Core i7,Intel HD,SSD
+523635.83999999997,Dell,Gaming,17.3,32,Windows 10,4.42,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+220675.104,Toshiba,Notebook,14.0,8,Windows 10,1.95,0,0,1,Intel Core i5,Intel HD,SSD
+383357.53872,Asus,Gaming,17.3,16,Windows 10,2.73,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+183085.5312,HP,Notebook,15.6,8,Windows 10,2.04,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+187386.82559999998,Lenovo,Notebook,14.0,4,Windows 7,1.7,0,0,0,Intel Core i5,Intel HD,Other
+336436.0272,Asus,2 in 1 Convertible,15.6,16,Windows 10,2.3,1,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+108280.41119999999,HP,Notebook,15.6,6,Windows 10,2.04,0,0,0,Intel Core i7,Intel HD,HDD
+327085.3872,Asus,Gaming,17.3,16,Windows 10,2.99,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+242929.6272,Dell,2 in 1 Convertible,15.6,12,Windows 10,2.19,1,1,1,Intel Core i7,Intel HD,SSD
+223480.29599999997,Toshiba,Notebook,13.3,4,Windows 7,1.2,0,0,1,Intel Core i5,Intel HD,SSD
+102670.0272,Lenovo,Notebook,15.6,6,Windows 10,2.2,0,0,1,AMD,AMD,SSD
+121371.3072,Other,Notebook,15.6,4,Windows 10,2.3,0,0,0,Intel Core i5,Intel HD,SSD
+171116.71199999997,Toshiba,Notebook,14.0,4,Windows 10,1.75,0,0,0,Intel Core i5,Intel HD,HDD
+112020.6672,Dell,Notebook,15.6,4,Windows 10,2.25,0,0,0,Intel Core i5,AMD,HDD
+150732.3168,HP,Notebook,15.6,8,Windows 10,2.04,0,0,1,Intel Core i5,Intel HD,HDD
+222358.2192,Lenovo,Gaming,15.6,8,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+140072.5872,Dell,Notebook,15.6,8,Windows 10,2.36,0,0,0,Intel Core i7,AMD,HDD
+209267.32319999998,Dell,Notebook,14.0,8,Windows 10,1.6,0,0,1,Intel Core i5,Intel HD,SSD
+356820.4224,HP,Netbook,12.5,8,Windows 10,0.97,0,0,1,Other,Intel HD,SSD
+93319.3872,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,Intel Core i3,AMD,Hybrid
+50609.403935999995,Lenovo,Notebook,15.6,4,No OS,1.9,0,0,0,Intel Celeron Dual,Intel HD,SSD
+252280.2672,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,0,1,Intel Core i5,Intel HD,SSD
+166254.3792,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.68,1,0,1,Intel Core i5,Intel HD,SSD
+215064.72,Asus,Notebook,13.3,8,Windows 10,1.4,0,0,1,Intel Core i5,Intel HD,SSD
+252280.2672,HP,Ultrabook,13.3,8,Windows 10,1.11,1,1,1,Intel Core i7,Intel HD,SSD
+71064.864,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,0,Other,Intel HD,HDD
+336436.0272,Asus,Gaming,15.6,16,Windows 10,2.5,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+390669.73919999995,HP,Ultrabook,14.0,8,Windows 10,1.48,0,0,1,Intel Core i7,Intel HD,SSD
+235636.128,Acer,Gaming,15.6,8,Windows 10,2.7,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+222358.2192,HP,Notebook,13.3,8,Windows 10,1.34,0,1,1,Intel Core i5,Intel HD,SSD
+102296.00159999999,Dell,Notebook,15.6,4,Windows 10,2.18,0,0,0,Intel Core i3,Intel HD,SSD
+145682.9712,HP,Notebook,14.0,4,Windows 10,1.64,0,0,0,Intel Core i5,Intel HD,HDD
+223480.29599999997,Toshiba,Notebook,13.3,4,Windows 10,1.2,0,0,1,Intel Core i5,Intel HD,SSD
+205712.20987199995,HP,Notebook,14.0,4,Windows 10,1.48,0,0,0,Intel Core i5,Intel HD,SSD
+225350.424,HP,Notebook,14.0,4,Windows 10,1.95,0,0,1,Intel Core i5,Intel HD,SSD
+270981.5472,HP,Ultrabook,14.0,8,Windows 7,1.43,0,0,1,Intel Core i7,Intel HD,SSD
+196225.050528,HP,Notebook,14.0,8,Windows 10,1.64,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+127916.75519999999,HP,Notebook,14.0,4,Windows 10,1.64,0,0,0,Intel Core i3,Intel HD,HDD
+177475.1472,Dell,Gaming,15.6,8,Windows 10,2.65,0,0,1,Intel Core i5,Nvidia GeForce,Other
+287812.6992,HP,Ultrabook,12.5,4,Windows 10,1.26,0,0,1,Intel Core i5,Intel HD,HDD
+297350.35199999996,HP,Notebook,14.0,4,Windows 10,1.48,0,0,1,Intel Core i5,Intel HD,SSD
+352932.426288,HP,Ultrabook,14.0,8,Windows 10,1.54,0,0,1,Intel Core i7,Intel HD,SSD
+149610.24,HP,Notebook,13.3,4,Windows 10,1.49,0,0,0,Intel Core i3,Intel HD,HDD
+226285.48799999998,Toshiba,Notebook,13.3,8,Windows 10,1.5,0,0,0,Intel Core i5,Intel HD,SSD
+143997.985872,HP,Notebook,15.6,4,Windows 10,2.04,0,0,0,Intel Core i3,Intel HD,SSD
+555053.9904,Lenovo,Notebook,17.3,16,Windows 7,2.4,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+278649.072,Toshiba,Notebook,14.0,8,Windows 10,1.47,0,1,1,Intel Core i5,Intel HD,SSD
+416851.53119999997,HP,Notebook,14.0,8,Windows 10,1.43,0,0,1,Intel Core i7,Intel HD,SSD
+148860.31867199996,Dell,2 in 1 Convertible,15.6,4,Windows 10,2.08,1,1,1,Intel Core i3,Intel HD,HDD
+297350.35199999996,Toshiba,Ultrabook,13.3,8,Windows 10,1.2,0,0,1,Intel Core i5,Intel HD,SSD
+214877.7072,HP,Notebook,13.3,8,Windows 10,1.11,0,1,1,Intel Core i5,Intel HD,SSD
+221690.583504,HP,Notebook,14.0,8,Windows 10,1.64,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+195697.67443199997,Dell,Notebook,15.6,8,Windows 10,2.09,0,0,1,Intel Core i5,Intel HD,HDD
+291552.95519999997,HP,Ultrabook,12.5,4,Windows 10,1.26,0,0,0,Intel Core i5,Intel HD,SSD
+222358.2192,HP,Notebook,14.0,4,Windows 10,2.31,0,0,0,Intel Core i5,Intel HD,HDD
+198233.568,HP,Notebook,14.0,4,Windows 10,1.95,0,0,0,Intel Core i5,Intel HD,HDD
+303708.78719999996,Dell,Ultrabook,13.3,8,Windows 10,1.29,1,0,1,Intel Core i5,Intel HD,SSD
+201973.824,HP,Notebook,17.3,8,Windows 10,2.63,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+181963.4544,HP,Notebook,14.0,4,Windows 10,1.64,0,0,0,Intel Core i5,Intel HD,SSD
+76488.2352,Acer,Notebook,15.6,6,Windows 10,2.1,0,0,0,AMD,AMD,HDD
+222881.85503999997,MSI,Gaming,17.3,8,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+223480.29599999997,HP,Notebook,14.0,8,Windows 7,1.95,0,0,1,Intel Core i5,Intel HD,SSD
+229836.861072,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i7,Intel HD,SSD
+252280.2672,HP,Ultrabook,12.5,8,Windows 10,1.26,0,0,1,Intel Core i7,Intel HD,SSD
+138763.4976,HP,Notebook,15.6,4,Windows 10,2.04,0,0,0,Intel Core i5,Intel HD,HDD
+322597.07999999996,Toshiba,Ultrabook,14.0,8,Windows 10,1.47,0,1,1,Intel Core i7,Intel HD,SSD
+198785.25576,Dell,Notebook,15.6,8,Windows 7,2.09,0,0,1,Intel Core i5,Intel HD,SSD
+188978.304528,HP,Notebook,14.0,8,Windows 10,1.64,0,0,1,Intel Core i5,Intel HD,SSD
+158399.8416,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,1.8,1,1,1,Intel Core i7,Intel HD,SSD
+39422.298240000004,Other,Notebook,14.0,2,Windows 10,1.45,0,0,0,Other,Intel HD,Flash Storage
+266493.24,Toshiba,Notebook,15.6,16,Windows 10,2.4,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+196288.63488,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,0,1,Intel Core i5,Intel HD,SSD
+187012.8,HP,Notebook,14.0,4,Windows 10,1.54,0,0,1,Intel Core i5,Intel HD,HDD
+393351.50275199994,HP,Notebook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i5,Intel HD,Hybrid
+274721.80319999997,HP,Notebook,14.0,8,Windows 7,1.43,0,0,1,Intel Core i5,Intel HD,SSD
+289054.464192,MSI,Gaming,17.3,16,Windows 10,3.78,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+428257.44187199994,Lenovo,Gaming,17.3,16,Windows 10,4.6,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+53840.98511999999,Asus,Netbook,11.6,4,Other,1.2,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+489973.53599999996,Lenovo,Notebook,14.0,16,Windows 7,1.1,0,1,0,Intel Core i7,Intel HD,SSD
+183085.5312,HP,Notebook,15.6,8,Windows 10,1.91,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+204592.00319999998,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.3,1,1,1,Intel Core i5,Intel HD,SSD
+183085.5312,HP,Notebook,15.6,4,Windows 10,2.04,0,0,0,Intel Core i5,Intel HD,SSD
+421526.8512,Dell,Ultrabook,13.3,16,Windows 10,1.2,1,0,1,Intel Core i7,Intel HD,SSD
+131872.07592,HP,Notebook,15.6,4,Windows 10,2.31,0,0,0,Intel Core i3,Intel HD,HDD
+93319.3872,HP,Notebook,15.6,4,No OS,1.96,0,0,0,Intel Core i5,Intel HD,HDD
+83968.7472,Acer,Notebook,15.6,8,Windows 10,2.4,0,0,0,AMD,AMD,HDD
+242929.6272,Dell,2 in 1 Convertible,13.3,12,Windows 10,1.6,1,1,1,Intel Core i7,Intel HD,SSD
+340176.2832,MSI,Gaming,15.6,16,Windows 10,2.94,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+200103.696,HP,Notebook,15.6,8,Windows 10,2.04,0,0,1,Intel Core i7,Intel HD,SSD
+186638.7744,Asus,Gaming,17.3,16,No OS,4.0,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+104540.1552,Dell,Notebook,15.6,4,Windows 10,2.25,0,0,1,Intel Core i5,Intel HD,HDD
+185140.801872,Dell,Notebook,15.6,16,Windows 10,2.32,0,0,1,Intel Core i7,AMD,HDD
+360747.69119999994,MSI,Gaming,15.6,16,Windows 10,1.8,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+272664.6624,Dell,Ultrabook,13.3,8,Windows 10,1.29,0,0,1,Intel Core i7,Intel HD,SSD
+743375.88,Asus,Gaming,17.3,64,Windows 10,3.58,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+149238.084528,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.62,1,0,1,Intel Core i7,Intel HD,SSD
+248540.01119999998,Dell,Gaming,15.6,16,Windows 10,3.21,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+243116.63999999998,Apple,Ultrabook,12.0,8,Other,0.92,0,1,0,Other,Intel HD,Flash Storage
+90136.429344,Dell,Notebook,15.6,4,Windows 10,2.06,0,0,0,Intel Core i3,Intel HD,HDD
+224228.3472,HP,Notebook,15.6,4,Windows 10,2.31,0,0,0,Intel Core i5,Intel HD,HDD
+224228.3472,HP,Ultrabook,12.5,8,Windows 7,1.26,0,0,1,Intel Core i5,Intel HD,SSD
+203843.952,HP,Notebook,13.3,8,Windows 10,1.49,0,0,1,Intel Core i7,Intel HD,SSD
+320444.562672,Lenovo,Ultrabook,12.5,8,Windows 10,1.3,1,1,1,Intel Core i7,Intel HD,SSD
+123241.43519999998,Lenovo,Notebook,17.3,8,Windows 10,3.0,0,0,0,Intel Core i5,AMD,HDD
+182711.50559999997,Lenovo,Notebook,15.6,4,Windows 10,2.3,0,1,1,Intel Core i5,Nvidia GeForce,HDD
+467344.9872,MSI,Gaming,17.3,16,Windows 10,3.78,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+100986.912,Lenovo,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i5,Intel HD,HDD
+175792.03199999998,HP,Notebook,15.6,4,Windows 7,2.31,0,0,1,Intel Core i5,Intel HD,HDD
+261630.9072,Lenovo,Ultrabook,12.5,8,Windows 10,0.99,1,1,0,Other,Intel HD,SSD
+605921.472,Lenovo,Gaming,17.3,32,Windows 10,4.6,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+120860.76225599999,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,1,1,0,Other,Intel HD,Flash Storage
+383189.22719999996,HP,Ultrabook,13.3,16,Windows 10,1.3,0,1,1,Intel Core i7,Intel HD,SSD
+140259.6,Dell,Notebook,15.6,8,Windows 10,2.18,0,0,1,Intel Core i5,Intel HD,SSD
+192808.32667199997,HP,Notebook,14.0,4,Windows 7,1.54,0,0,1,Intel Core i5,Intel HD,HDD
+279584.13599999994,HP,Workstation,15.6,8,Windows 7,1.9,0,0,1,Intel Core i7,AMD,SSD
+224228.3472,Lenovo,Notebook,14.0,8,Windows 7,1.7,0,0,1,Intel Core i5,Intel HD,SSD
+115012.87199999999,HP,Notebook,13.3,4,Other,1.29,0,0,1,Other,Intel HD,Flash Storage
+72373.9536,Acer,Notebook,15.6,4,Windows 10,2.4,0,0,0,AMD,AMD,HDD
+73587.66667199999,Dell,Notebook,15.6,4,Linux,2.2,0,0,0,Other,Intel HD,HDD
+64704.558672,HP,Notebook,15.6,4,No OS,1.86,0,0,0,Intel Core i3,Intel HD,HDD
+299033.4672,Asus,Gaming,17.3,8,Windows 10,2.7,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+153041.92488,Dell,Ultrabook,13.3,4,Windows 10,1.4,0,1,1,Intel Core i5,AMD,SSD
+299033.4672,HP,Netbook,12.5,4,Windows 7,2.4,0,0,0,Intel Core i5,Intel HD,SSD
+149423.2272,Acer,Notebook,15.6,8,Windows 10,2.4,0,0,1,Intel Core i5,Nvidia GeForce,Hybrid
+119463.77664,Dell,Notebook,15.6,8,Windows 10,2.36,0,0,1,Intel Core i5,AMD,HDD
+299033.4672,MSI,Gaming,17.3,8,Windows 10,2.6,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+93506.4,HP,Notebook,15.6,4,Windows 10,1.96,0,0,0,Other,Intel HD,HDD
+429942.4272,Asus,Gaming,17.3,16,Windows 10,4.3,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+212287.57992,Dell,Ultrabook,12.5,4,Windows 7,1.5,0,0,0,Intel Core i3,Intel HD,HDD
+218238.32721599998,Dell,Ultrabook,12.5,4,Windows 7,1.5,0,0,0,Intel Core i3,Intel HD,SSD
+39085.6752,Acer,Notebook,15.6,4,Other,2.2,0,0,0,Intel Celeron Dual,Intel HD,SSD
+542150.1072,HP,Workstation,17.3,8,Windows 7,3.0,0,1,1,Intel Core i7,AMD,HDD
+224228.3472,Lenovo,Gaming,15.6,16,Windows 10,2.4,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+264267.78767999995,Dell,Ultrabook,12.5,8,Windows 7,1.5,0,0,0,Intel Core i5,Intel HD,SSD
+282611.8732319999,MSI,Gaming,17.3,8,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+162140.0976,Lenovo,2 in 1 Convertible,15.6,4,Windows 10,2.1,1,1,1,Intel Core i5,Intel HD,SSD
+74431.09439999999,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,AMD,AMD,HDD
+250410.13919999998,Asus,Gaming,15.6,16,Windows 10,2.59,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+317734.7472,HP,Notebook,13.3,8,Windows 10,1.16,1,0,1,Other,Intel HD,SSD
+143840.89511999997,Dell,Notebook,15.6,4,Windows 7,2.24,0,0,0,Intel Core i5,AMD,HDD
+80228.49119999999,Lenovo,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Core i3,Intel HD,SSD
+368228.2032,HP,Ultrabook,13.3,8,Windows 10,1.16,0,0,1,Intel Core i7,Intel HD,SSD
+102670.0272,Lenovo,2 in 1 Convertible,10.1,4,Other,0.69,1,1,0,Other,Intel HD,Flash Storage
+257890.65119999996,Dell,Ultrabook,13.3,8,Windows 10,1.23,0,0,1,Intel Core i7,Other,SSD
+514283.3298719999,Lenovo,Gaming,17.3,16,Windows 10,4.6,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+192436.1712,Other,Ultrabook,12.5,8,Windows 10,1.25,1,0,1,Intel Core i7,Intel HD,SSD
+416290.49279999995,Toshiba,Ultrabook,13.3,16,Windows 10,1.05,0,0,1,Intel Core i7,Intel HD,SSD
+245452.42987199998,Asus,Gaming,17.3,8,Windows 10,3.52,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+36654.508799999996,Other,Notebook,13.3,4,Windows 10,1.35,0,0,1,Other,Intel HD,Flash Storage
+316051.632,HP,Notebook,13.3,8,Windows 10,1.16,0,0,1,Intel Core i5,Intel HD,SSD
+282950.3664,HP,Notebook,14.0,8,Windows 7,1.43,0,0,1,Intel Core i5,Intel HD,SSD
+97925.51246399998,Dell,Notebook,15.6,4,Linux,2.09,0,0,0,Intel Core i5,Intel HD,HDD
+81350.568,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,0,Intel Core i3,Intel HD,HDD
+312124.36319999996,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.8,1,1,1,Intel Core i7,Intel HD,SSD
+89579.13119999999,Lenovo,2 in 1 Convertible,10.1,4,Windows 10,0.69,1,1,0,Other,Intel HD,Flash Storage
+354389.256,HP,Ultrabook,12.5,8,Windows 7,1.26,0,0,0,Intel Core i5,Intel HD,SSD
+184955.6592,Lenovo,Gaming,15.6,8,No OS,2.4,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+211137.4512,HP,Gaming,17.3,8,Windows 10,3.35,0,1,1,Intel Core i5,Nvidia GeForce,Hybrid
+117631.05119999997,HP,Notebook,15.6,8,Windows 10,2.04,0,0,0,Intel Core i7,Intel HD,HDD
+383447.304864,Lenovo,2 in 1 Convertible,14.0,8,Windows 7,1.8,1,1,1,Intel Core i7,Nvidia Quadro,SSD
+51989.558399999994,Asus,Notebook,14.0,4,Windows 10,1.5,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+140633.62559999997,HP,Ultrabook,15.6,8,Windows 10,1.84,0,0,1,Intel Core i7,Intel HD,SSD
+115199.8848,Acer,Notebook,15.6,4,Windows 10,2.23,0,0,1,Intel Core i5,Nvidia GeForce,HDD
+205527.0672,Lenovo,Notebook,15.6,16,Windows 10,2.5,0,0,1,Intel Core i7,AMD,Other
+738588.35232,HP,Workstation,17.3,8,Windows 7,3.0,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+146618.03519999998,Dell,Notebook,15.6,8,Windows 10,2.5,0,0,0,Intel Core i5,AMD,HDD
+448643.7072,MSI,Gaming,17.3,16,Windows 10,3.78,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+406139.438016,HP,Ultrabook,15.6,8,Windows 7,1.88,0,0,1,Intel Core i7,Intel HD,SSD
+456311.23199999996,Lenovo,2 in 1 Convertible,14.0,16,Windows 10,2.8,1,1,0,Intel Core i7,Intel HD,SSD
+213718.22783999998,MSI,Gaming,15.6,8,Windows 10,2.4,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+304643.8512,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1,0,1,Intel Core i5,Intel HD,SSD
+416851.53119999997,HP,Workstation,15.6,8,Windows 7,2.59,0,1,1,Intel Core i7,Nvidia Quadro,SSD
+336436.0272,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1,0,0,Intel Core i7,Intel HD,SSD
+355137.3072,HP,Workstation,15.6,8,Windows 7,2.0,0,0,1,Intel Core i7,Nvidia Quadro,SSD
+429559.0509599999,HP,Ultrabook,12.5,8,Windows 7,1.26,0,0,1,Intel Core i7,Intel HD,SSD
+188864.22672,Dell,Notebook,15.6,8,Windows 10,2.18,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+295293.21119999996,HP,Notebook,15.6,8,Windows 7,1.88,0,0,1,Intel Core i5,Intel HD,SSD
+437422.93919999996,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.27,1,1,0,Intel Core i7,Intel HD,SSD
+63397.33919999999,Lenovo,Notebook,15.6,4,No OS,1.9,0,0,0,Intel Core i3,Intel HD,HDD
+55542.8016,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,AMD,AMD,HDD
+112020.6672,Lenovo,Notebook,15.6,8,No OS,2.32,0,0,1,Intel Core i5,AMD,HDD
+224228.3472,Dell,Gaming,15.6,8,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+420905.968704,Dell,Notebook,15.6,8,Windows 10,2.04,1,1,1,Intel Core i5,Nvidia GeForce,SSD
+89558.559792,HP,Notebook,15.6,4,Windows 10,1.91,0,0,1,AMD,AMD,SSD
+279172.70783999993,MSI,Gaming,17.3,16,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+429942.4272,Lenovo,Ultrabook,14.0,12,Windows 7,1.4,0,0,1,Intel Core i7,Intel HD,SSD
+147457.72267199997,Lenovo,Notebook,15.6,8,Windows 10,2.5,0,0,1,Intel Core i5,AMD,Other
+381693.1248,HP,2 in 1 Convertible,13.3,8,Windows 10,1.48,1,0,0,Intel Core i7,Intel HD,SSD
+280332.1872,Lenovo,Ultrabook,14.0,8,Windows 7,1.7,0,0,1,Intel Core i7,Intel HD,SSD
+330825.6432,MSI,Gaming,14.0,16,Windows 10,1.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+168124.5072,HP,Gaming,15.6,8,Windows 10,2.62,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+85838.8752,Lenovo,Notebook,15.6,8,Windows 10,2.2,0,0,0,Intel Core i3,Intel HD,HDD
+89203.235472,HP,Notebook,15.6,4,No OS,2.1,0,0,0,Intel Core i5,Intel HD,HDD
+280145.1744,Dell,Gaming,15.6,8,Windows 10,2.62,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+259947.792,Lenovo,Notebook,15.6,8,Windows 10,1.95,0,1,1,Intel Core i5,Intel HD,SSD
+87521.9904,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,1,Intel Core i3,Nvidia GeForce,HDD
+46566.18719999999,HP,Notebook,14.0,2,Windows 10,1.44,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+156903.73919999998,MSI,Gaming,15.6,8,Windows 10,2.2,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+126981.6912,HP,Notebook,15.6,8,Windows 10,1.96,0,0,1,Intel Core i7,Intel HD,SSD
+216747.83519999997,HP,Notebook,15.6,16,Windows 10,2.1,0,0,1,Intel Core i7,Intel UHD,SSD
+69007.7232,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+74431.09439999999,Lenovo,Notebook,15.6,4,No OS,2.1,0,0,0,Intel Core i5,Intel HD,HDD
+132592.0752,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+143812.8432,Asus,Notebook,14.0,4,Windows 10,2.0,0,0,1,Intel Core i3,Intel HD,SSD
+154285.56,Lenovo,Notebook,15.6,4,Windows 7,2.32,0,0,1,Intel Core i7,Intel HD,Other
+244051.70399999997,Lenovo,Gaming,15.6,16,Windows 10,3.31,0,1,1,Intel Core i7,Nvidia GeForce,SSD
+402707.75313599996,MSI,Gaming,15.6,16,Windows 10,1.91,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+121558.31999999999,HP,Notebook,15.6,4,Windows 10,2.07,0,0,0,Intel Core i3,Intel HD,HDD
+306139.9536,Lenovo,2 in 1 Convertible,14.0,8,Windows 10,1.36,1,1,0,Intel Core i5,Intel HD,SSD
+155407.63679999998,Lenovo,Ultrabook,15.6,6,Windows 10,1.54,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+167378.326128,Dell,Notebook,15.6,8,Linux,1.98,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+62275.26239999999,Acer,Notebook,15.6,4,Windows 10,2.1,0,0,0,Intel Celeron Dual,Intel HD,HDD
+149423.2272,HP,Notebook,15.6,6,Windows 10,2.18,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+169994.6352,Asus,Gaming,15.6,8,Windows 10,2.591,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+220488.0912,Dell,2 in 1 Convertible,15.6,16,Windows 10,2.09,1,0,1,Intel Core i7,Intel HD,SSD
+129225.8448,Acer,Notebook,15.6,4,Windows 10,2.23,0,0,1,Intel Core i5,Nvidia GeForce,SSD
+205527.0672,Dell,Ultrabook,13.3,8,Linux,1.23,1,0,1,Intel Core i5,Intel HD,SSD
+486046.2672,Acer,Gaming,17.3,16,Windows 10,4.2,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+153163.4832,Lenovo,Gaming,15.6,8,Windows 10,2.4,0,1,1,Intel Core i5,Nvidia GeForce,HDD
+123241.43519999998,Other,2 in 1 Convertible,12.3,4,Other,1.15,1,1,0,Other,Other,Flash Storage
+90701.208,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,Intel Core i5,Intel HD,HDD
+217495.8864,Apple,Ultrabook,12.0,8,Other,0.92,0,1,0,Other,Intel HD,Flash Storage
+224228.3472,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.6,1,1,1,Intel Core i5,Intel HD,SSD
+248165.98559999999,HP,Notebook,15.6,12,Windows 10,2.21,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+68820.7104,Lenovo,Notebook,15.6,4,No OS,1.9,0,0,0,Intel Core i3,AMD,HDD
+402077.51999999996,Asus,Gaming,17.3,16,Windows 10,4.3,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+50867.4816,Acer,Notebook,15.6,4,Linux,2.1,0,0,0,Intel Celeron Dual,Intel HD,HDD
+383170.52592,MSI,Gaming,17.3,16,Windows 10,2.43,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+93319.3872,Dell,Notebook,15.6,4,Windows 10,2.3,0,0,0,Intel Core i3,AMD,SSD
+117631.05119999997,Lenovo,Notebook,15.6,8,No OS,2.2,0,0,0,Intel Core i7,Nvidia GeForce,HDD
+240311.448,Dell,2 in 1 Convertible,15.6,16,Windows 10,2.0,1,0,1,Intel Core i7,Intel UHD,SSD
+501194.30399999995,Dell,Ultrabook,13.3,16,Windows 10,1.2,1,0,1,Intel Core i7,Intel HD,SSD
+218617.9632,Asus,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,HDD
+166254.3792,Dell,Notebook,15.6,8,Windows 10,2.36,0,0,1,Intel Core i5,AMD,SSD
+108280.41119999999,HP,Notebook,15.6,8,Windows 10,1.91,0,0,0,Intel Core i5,Intel HD,SSD
+55916.82719999999,Lenovo,Notebook,15.6,4,Windows 10,2.2,0,0,0,AMD,AMD,HDD
+117631.05119999997,Acer,Notebook,17.3,8,Windows 10,3.3,0,0,0,Intel Core i3,Nvidia GeForce,HDD
+457994.34719999996,Asus,Gaming,15.6,16,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+239189.37119999997,Apple,Ultrabook,12.0,8,Other,0.92,0,1,0,Other,Intel HD,Flash Storage
+327085.3872,Asus,Notebook,15.6,16,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+364486.07707199996,MSI,Gaming,17.3,16,Windows 10,2.43,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+186825.7872,Dell,2 in 1 Convertible,15.6,8,Windows 10,2.191,1,1,1,Intel Core i5,Intel HD,SSD
+364487.9472,Asus,Gaming,17.3,16,Windows 10,2.9,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+32540.227199999998,Acer,Netbook,11.6,2,Other,1.3,0,0,0,Intel Celeron Dual,Intel HD,SSD
+111833.65439999998,Acer,Notebook,17.3,4,Windows 10,3.3,0,0,0,Intel Core i3,Nvidia GeForce,HDD
+100799.89919999999,Lenovo,Notebook,17.3,8,No OS,2.8,0,0,0,Intel Core i5,Intel HD,HDD
+237880.2816,Lenovo,Gaming,15.6,8,Windows 10,2.6,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+214877.7072,Acer,2 in 1 Convertible,14.0,8,Windows 10,1.2,1,1,1,Intel Core i7,Intel HD,SSD
+285942.57119999995,Lenovo,Notebook,15.6,8,Windows 10,2.3,0,1,1,Intel Core i7,Intel HD,SSD
+276051.464208,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+98929.77119999999,HP,Notebook,15.6,6,Windows 10,2.1,0,0,1,AMD,AMD,HDD
+320422.121136,Dell,Ultrabook,12.5,8,Windows 7,1.26,1,0,1,Intel Core i5,Intel HD,SSD
+95189.5152,Dell,2 in 1 Convertible,15.0,4,Windows 10,2.08,1,0,1,Intel Core i3,Intel HD,HDD
+57786.9552,Asus,Notebook,15.6,4,Windows 10,2.65,0,0,0,Other,Intel HD,HDD
+276217.9056,Dell,Ultrabook,13.3,8,Windows 10,1.29,1,0,1,Intel Core i7,Intel HD,SSD
+97594.499808,Dell,Notebook,15.6,4,Linux,2.18,0,0,0,Intel Core i5,Intel HD,HDD
+192436.1712,Lenovo,Gaming,15.6,16,Windows 10,2.6,1,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+214877.7072,MSI,Gaming,15.6,8,Windows 10,2.2,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+308571.12,Lenovo,Netbook,12.5,16,Windows 10,1.3,1,1,1,Intel Core i7,Intel HD,SSD
+654357.7872,Other,Gaming,14.0,16,Windows 10,1.95,0,0,1,Intel Core i7,Nvidia GeForce,SSD
+87710.873328,Dell,Notebook,15.6,8,Windows 10,2.3,1,0,0,Intel Core i3,Intel HD,HDD
+298846.4544,MSI,Gaming,17.3,16,Windows 10,2.7,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+179345.27519999997,Apple,Ultrabook,11.6,4,Other,1.08,0,0,0,Intel Core i5,Intel HD,Flash Storage
+89392.11839999999,HP,Notebook,15.6,4,Windows 10,2.1,0,0,1,Intel Core i3,Intel HD,HDD
+411089.666832,HP,Ultrabook,14.0,8,Windows 7,1.54,0,0,0,Intel Core i7,Intel HD,SSD
+137828.4336,Dell,Notebook,15.6,4,Windows 7,2.24,0,0,0,Intel Core i5,Intel HD,HDD
+218617.9632,MSI,Gaming,15.6,8,Windows 10,2.3,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+280332.1872,Lenovo,Notebook,13.3,16,Windows 10,1.4,0,1,1,Intel Core i7,Intel HD,SSD
+111753.238896,Lenovo,Notebook,15.6,6,Windows 10,2.2,0,0,1,AMD,AMD,SSD
+239376.38399999996,Asus,Ultrabook,13.3,8,Windows 10,1.45,0,0,1,Intel Core i7,Intel HD,SSD
+67661.23104,Acer,Notebook,15.6,4,Linux,2.4,0,0,0,Intel Core i3,Intel HD,HDD
+336436.0272,Dell,2 in 1 Convertible,17.3,16,Windows 10,2.77,1,0,1,Intel Core i7,Nvidia GeForce,SSD
+205712.20987199995,HP,Notebook,14.0,4,Windows 7,1.54,0,0,1,Intel Core i5,Intel HD,SSD
+299220.48,Asus,Gaming,15.6,16,Windows 10,2.5,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+163636.19999999998,Dell,Notebook,14.0,4,Windows 10,1.6,0,0,0,Intel Core i5,Intel HD,HDD
+434804.75999999995,Asus,Gaming,15.6,16,Windows 10,2.34,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+107158.33439999999,Lenovo,Notebook,15.6,8,No OS,2.3,0,1,1,Intel Core i5,Intel HD,SSD
+339054.20639999997,Dell,2 in 1 Convertible,13.3,8,Windows 10,1.24,1,0,1,Intel Core i5,Intel HD,SSD
+60592.1472,Dell,Notebook,15.6,4,Linux,2.2,0,0,0,Other,Intel HD,HDD
+74618.1072,HP,Notebook,15.6,4,Windows 10,1.86,0,0,0,AMD,AMD,HDD
+106410.28319999999,Lenovo,Notebook,15.6,6,Windows 10,2.4,0,0,1,Intel Core i3,Nvidia GeForce,SSD
+200477.7216,Lenovo,Notebook,14.0,8,Windows 10,1.9,0,1,1,Intel Core i5,Intel HD,SSD
+83031.81307199999,Dell,Notebook,15.6,4,Windows 10,2.2,0,0,0,Other,Intel HD,HDD
+63397.33919999999,Asus,Notebook,15.6,4,Windows 10,2.0,0,0,0,Intel Celeron Dual,Intel HD,HDD
+355324.32,Asus,Gaming,17.3,16,Windows 10,4.0,0,1,1,Intel Core i7,Nvidia GeForce,Hybrid
+91636.272,Dell,Notebook,15.6,4,Windows 10,2.29,0,0,0,Intel Core i3,Intel HD,HDD
+167376.45599999998,Lenovo,Notebook,15.6,8,Windows 7,2.32,0,0,1,Intel Core i7,AMD,Other
+229838.7312,MSI,Gaming,15.6,8,Windows 10,2.4,0,0,1,Intel Core i7,Nvidia GeForce,Hybrid
+155783.53252799998,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,1,0,1,Intel Core i5,Intel HD,SSD
+136332.33120000002,Asus,Ultrabook,13.3,8,Windows 10,1.2,0,1,1,Other,Intel HD,SSD
+85838.8752,Dell,Notebook,15.6,6,Windows 10,2.3,0,0,0,Intel Core i3,Intel HD,HDD
+54046.699199999995,Acer,Notebook,15.6,4,Linux,2.4,0,0,0,Intel Celeron Dual,Intel HD,HDD
+70877.85119999999,Dell,Notebook,15.6,2,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+168124.5072,Lenovo,Notebook,15.6,8,Windows 10,2.6,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+102855.16987199998,HP,Notebook,15.6,6,Windows 10,2.04,0,0,1,AMD,AMD,Other
+150730.446672,Dell,Notebook,15.6,8,Linux,2.3,0,0,0,Intel Core i7,AMD,HDD
+39085.6752,HP,Netbook,11.6,2,Windows 10,1.17,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+134709.06009599997,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Core i7,Nvidia GeForce,HDD
+119314.16639999999,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,1,1,1,Intel Core i7,Intel HD,SSD
+280332.1872,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1,1,1,Intel Core i7,Intel HD,SSD
+42825.9312,Lenovo,Notebook,14.0,2,Windows 10,1.5,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+142877.7792,HP,Notebook,15.6,6,Windows 10,2.19,0,0,0,Intel Core i7,AMD,HDD
+69007.7232,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+136332.33120000002,Asus,Ultrabook,13.3,8,Windows 10,1.2,0,1,1,Other,Intel HD,SSD
+85838.8752,Dell,Notebook,15.6,6,Windows 10,2.3,0,0,0,Intel Core i3,Intel HD,HDD
+54046.699199999995,Acer,Notebook,15.6,4,Linux,2.4,0,0,0,Intel Celeron Dual,Intel HD,HDD
+70877.85119999999,Dell,Notebook,15.6,2,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+168124.5072,Lenovo,Notebook,15.6,8,Windows 10,2.6,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+102855.16987199998,HP,Notebook,15.6,6,Windows 10,2.04,0,0,1,AMD,AMD,Other
+150730.446672,Dell,Notebook,15.6,8,Linux,2.3,0,0,0,Intel Core i7,AMD,HDD
+39085.6752,HP,Netbook,11.6,2,Windows 10,1.17,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+134709.06009599997,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Core i7,Nvidia GeForce,HDD
+119314.16639999999,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,1,1,1,Intel Core i7,Intel HD,SSD
+280332.1872,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1,1,1,Intel Core i7,Intel HD,SSD
+42825.9312,Lenovo,Notebook,14.0,2,Windows 10,1.5,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+142877.7792,HP,Notebook,15.6,6,Windows 10,2.19,0,0,0,Intel Core i7,AMD,HDD
+69007.7232,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+136332.33120000002,Asus,Ultrabook,13.3,8,Windows 10,1.2,0,1,1,Other,Intel HD,SSD
+85838.8752,Dell,Notebook,15.6,6,Windows 10,2.3,0,0,0,Intel Core i3,Intel HD,HDD
+54046.699199999995,Acer,Notebook,15.6,4,Linux,2.4,0,0,0,Intel Celeron Dual,Intel HD,HDD
+70877.85119999999,Dell,Notebook,15.6,2,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
+168124.5072,Lenovo,Notebook,15.6,8,Windows 10,2.6,0,1,1,Intel Core i7,Nvidia GeForce,HDD
+102855.16987199998,HP,Notebook,15.6,6,Windows 10,2.04,0,0,1,AMD,AMD,Other
+150730.446672,Dell,Notebook,15.6,8,Linux,2.3,0,0,0,Intel Core i7,AMD,HDD
+39085.6752,HP,Netbook,11.6,2,Windows 10,1.17,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+134709.06009599997,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Core i7,Nvidia GeForce,HDD
+119314.16639999999,Lenovo,2 in 1 Convertible,14.0,4,Windows 10,1.8,1,1,1,Intel Core i7,Intel HD,SSD
+280332.1872,Lenovo,2 in 1 Convertible,13.3,16,Windows 10,1.3,1,1,1,Intel Core i7,Intel HD,SSD
+42825.9312,Lenovo,Notebook,14.0,2,Windows 10,1.5,0,0,0,Intel Celeron Dual,Intel HD,Flash Storage
+142877.7792,HP,Notebook,15.6,6,Windows 10,2.19,0,0,0,Intel Core i7,AMD,HDD
+69007.7232,Asus,Notebook,15.6,4,Windows 10,2.2,0,0,0,Intel Celeron Dual,Intel HD,HDD
