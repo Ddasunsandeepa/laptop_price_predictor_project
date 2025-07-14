@@ -20,34 +20,43 @@ All work is done in **VS Code Dev Containers** — including running Jupyter not
 
 ```
 laptop_price_predictor_project/
-├── Makefile                  # Useful commands for build/test (WIP)
-├── pyproject.toml            # Project metadata & dependencies
-├── README.md                 # Project documentation (you’re reading it!)
-├── .devcontainer.json        # Devcontainer config for VS Code
-├── app/                      # Flask app for web deployment
-│   ├── app.py                # Main Flask application
-│   ├── static/style.css      # Stylesheet
-│   └── templates/index.html  # HTML template for the web UI
-├── data/                     # Raw dataset(s)
+├── .git/                         # Git version control folder
+├── .gitignore                   # Git ignore rules
+├── .devcontainer.json           # VS Code dev container configuration
+├── Makefile                     # Command shortcuts (build, test, etc.)
+├── Miniforge3-Linux-x86_64.sh  # Environment bootstrap script
+├── pyproject.toml               # Python project dependencies and config
+├── README.md                    # Project overview and usage guide
+│ 
+├── app/                         # Flask application (for deployment)
+│   ├── app.py                   # Main Flask app
+│   ├── static/                  # CSS, JS, images
+│   │   └── style.css
+│   └── templates/              # HTML templates
+│       └── index.html
+│ 
+├── data/                        # Dataset and preprocessing artifacts
 │   └── laptop_data.csv
-├── notebooks/                # Experiments & preprocessing notebooks
-│   ├── experiment_01.ipynb
+│ 
+├── notebooks/                   # Jupyter notebooks for individual members
+│   ├── FC212009_Darsha/
 │   ├── FC212012-Sajani/
 │   ├── FC212017-Dasun/
 │   ├── FC212030_Mudhitha/
 │   ├── FC212034_Kishgintharaam/
 │   └── FC212036_Dileesha/
-├── src/                      # Source code for training, validation, utils
-│   ├── __init__.py
-│   ├── test.py
-│   ├── train.py
-│   ├── utils.py
-│   ├── validation.py
-│   ├── FC212017-Dasun/       # Individual contribution folder
-│   └── FC212034_Kishgintharaam/ # Individual contribution folder
-└── tests/                    # Unit tests
-    ├── __init__.py
-    └── test.py
+│ 
+├── src/                         # Source code for training and utils
+│   ├── FC212009_Darsha/
+│   ├── FC212012-Sajani/
+│   ├── FC212017-Dasun/
+│   ├── FC212030_Mudhitha/
+│   ├── FC212034_Kishgintharaam/
+│   └── FC212036_Dileesha/
+│ 
+├── tests/                       # Unit and integration tests
+│   └── test.py
+
 
 ```
 
