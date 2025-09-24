@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Laptop Price Predictor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Laptop Price Predictor 💻</h1>
+    <form action="/predict" method="POST">
+      <!-- Dropdowns -->
+      <label>Company:</label>
+      <select name="Company" required>
+        <option>Apple</option>
+        <option>HP</option>
+        <option>Dell</option>
+        <option>Lenovo</option>
+        <option>Asus</option>
+        <option>Acer</option>
+        <option>MSI</option>
+      </select>
+
+      <label>Type:</label>
+      <select name="TypeName" required>
+        <option>Ultrabook</option>
+        <option>Notebook</option>
+        <option>Gaming</option>
+        <option>2 in 1 Convertible</option>
+      </select>
+
+      <label>Operating System:</label>
+      <select name="OpSys" required>
+        <option>Windows</option>
+        <option>Mac</option>
+        <option>Linux</option>
+        <option>Other</option>
+      </select>
+
+      <label>CPU:</label>
+      <select name="CPU" required>
+        <option>Intel Core i3</option>
+        <option>Intel Core i5</option>
+        <option>Intel Core i7</option>
+        <option>AMD Ryzen</option>
+        <option>Other</option>
+      </select>
+
+      <label>GPU:</label>
+      <select name="GPU" required>
+        <option>Intel</option>
+        <option>Nvidia</option>
+        <option>AMD</option>
+      </select>
+
+      <!-- Numeric Inputs -->
+      <label>RAM (GB):</label>
+      <input type="number" name="Ram" min="2" max="64" required>
+
+      <label>SSD (GB):</label>
+      <input type="number" name="SSD" min="0" max="2000" step="128" required>
+
+      <label>HDD (GB):</label>
+      <input type="number" name="HDD" min="0" max="2000" step="128" required>
+
+
+      <label>Weight (kg):</label>
+      <input type="number" step="0.01" name="Weight" required>
+
+      <label>TouchScreen:</label>
+      <select name="TouchScreen" required>
+        <option value="1">Yes</option>
+        <option value="0">No</option>
+      </select>
+
+      <label>IPS:</label>
+      <select name="IPS" required>
+        <option value="1">Yes</option>
+        <option value="0">No</option>
+      </select>
+
+      <label>PPI:</label>
+      <input type="number" step="0.1" name="PPI" required>
+
+      <button type="submit">Predict Price</button>
+    </form>
+
+    {% if prediction_text %}
+      <div class="result">
+        <h2>{{ prediction_text }}</h2>
+      </div>
+    {% endif %}
+  </div>
+</body>
+</html>
