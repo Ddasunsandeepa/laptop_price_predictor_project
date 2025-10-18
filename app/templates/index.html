@@ -1,95 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Laptop Price Predictor</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
+
 <body>
-  <div class="container">
-    <h1>Laptop Price Predictor 💻</h1>
-    <form action="/predict" method="POST">
-      <!-- Dropdowns -->
-      <label>Company:</label>
-      <select name="Company" required>
-        <option>Apple</option>
-        <option>HP</option>
-        <option>Dell</option>
-        <option>Lenovo</option>
-        <option>Asus</option>
-        <option>Acer</option>
-        <option>MSI</option>
-      </select>
+  <div class="container mt-5">
+    <h1 class="text-center mb-4">💻 Laptop Price Predictor</h1>
+    <div class="card p-4 shadow-sm">
+      {% if prediction_text %}
+      <div class="alert alert-info text-center">{{ prediction_text }}</div>
+      {% endif %}
 
-      <label>Type:</label>
-      <select name="TypeName" required>
-        <option>Ultrabook</option>
-        <option>Notebook</option>
-        <option>Gaming</option>
-        <option>2 in 1 Convertible</option>
-      </select>
+      <form method="POST" action="/predict">
 
-      <label>Operating System:</label>
-      <select name="OpSys" required>
-        <option>Windows</option>
-        <option>Mac</option>
-        <option>Linux</option>
-        <option>Other</option>
-      </select>
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <label class="form-label">Company</label>
+            <select name="Company" class="form-select" required>
+              {% for company in companies %}
+              <option value="{{ company }}">{{ company }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label class="form-label">Type</label>
+            <select name="TypeName" class="form-select" required>
+              {% for t in types %}
+              <option value="{{ t }}">{{ t }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
 
-      <label>CPU:</label>
-      <select name="CPU" required>
-        <option>Intel Core i3</option>
-        <option>Intel Core i5</option>
-        <option>Intel Core i7</option>
-        <option>AMD Ryzen</option>
-        <option>Other</option>
-      </select>
+        <div class="row mb-3">
+          <div class="col-md-4">
+            <label class="form-label" data-limit="(2-64)">RAM (GB)</label>
+            <input type="number" name="Ram" class="form-control" min="2" max="64" required>
+          </div>
+          <div class="col-md-4">
+            <label class="form-label" data-limit="(0.8-5)">Weight (kg)</label>
+            <input type="number" step="0.1" name="Weight" class="form-control" min="0.8" max="5" required>
+          </div>
+          <div class="col-md-4">
+            <label class="form-label" data-limit="(60-600)">PPI</label>
+            <input type="number" step="1" name="PPI" class="form-control" min="60" max="600" required>
+          </div>
+        </div>
 
-      <label>GPU:</label>
-      <select name="GPU" required>
-        <option>Intel</option>
-        <option>Nvidia</option>
-        <option>AMD</option>
-      </select>
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <label class="form-label">Operating System</label>
+            <select name="OpSys" class="form-select" required>
+              {% for os in os_options %}
+              <option value="{{ os }}">{{ os }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="col-md-6">
+            <label class="form-label">CPU</label>
+            <select name="CPU" class="form-select" required>
+              {% for cpu in cpu_options %}
+              <option value="{{ cpu }}">{{ cpu }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
 
-      <!-- Numeric Inputs -->
-      <label>RAM (GB):</label>
-      <input type="number" name="Ram" min="2" max="64" required>
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <label class="form-label">GPU</label>
+            <select name="GPU" class="form-select" required>
+              {% for gpu in gpu_options %}
+              <option value="{{ gpu }}">{{ gpu }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label" data-limit="(0-2048)">SSD (MB)</label>
+            <input type="number" name="SSD" class="form-control" min="0" max="2048" required>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label" data-limit="(0-2048)">HDD (MB)</label>
+            <input type="number" name="HDD" class="form-control" min="0" max="2048" required>
+          </div>
+        </div>
 
-      <label>SSD (GB):</label>
-      <input type="number" name="SSD" min="0" max="2000" step="128" required>
+        <div class="form-check form-check-inline mb-3">
+          <input class="form-check-input" type="checkbox" name="TouchScreen" value="1">
+          <label class="form-check-label">TouchScreen</label>
+        </div>
+        <div class="form-check form-check-inline mb-3">
+          <input class="form-check-input" type="checkbox" name="IPS" value="1">
+          <label class="form-check-label">IPS Display</label>
+        </div>
 
-      <label>HDD (GB):</label>
-      <input type="number" name="HDD" min="0" max="2000" step="128" required>
-
-
-      <label>Weight (kg):</label>
-      <input type="number" step="0.01" name="Weight" required>
-
-      <label>TouchScreen:</label>
-      <select name="TouchScreen" required>
-        <option value="1">Yes</option>
-        <option value="0">No</option>
-      </select>
-
-      <label>IPS:</label>
-      <select name="IPS" required>
-        <option value="1">Yes</option>
-        <option value="0">No</option>
-      </select>
-
-      <label>PPI:</label>
-      <input type="number" step="0.1" name="PPI" required>
-
-      <button type="submit">Predict Price</button>
-    </form>
-
-    {% if prediction_text %}
-      <div class="result">
-        <h2>{{ prediction_text }}</h2>
-      </div>
-    {% endif %}
+        <button type="submit" class="btn btn-primary w-100 mt-3">Predict Price</button>
+      </form>
+    </div>
   </div>
 </body>
+
 </html>
