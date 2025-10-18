@@ -1,65 +1,74 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #f4f6f9;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
-
-.container {
-  background: #fff;
-  padding: 30px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  max-width: 500px;
-  width: 100%;
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
-  text-align: center;
-  color: #333;
-  margin-bottom: 20px;
+    color: #ffffff;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5);
 }
 
-form {
-  display: flex;
-  flex-direction: column;
+.card {
+    background-color: #1e1e1e !important;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    border: 1px solid #2a2a2a;
 }
 
-label {
-  margin-top: 10px;
-  font-weight: bold;
+.form-label {
+    font-weight: 500;
+    color: #e0e0e0;
 }
 
-input, select {
-  padding: 8px;
-  margin-top: 5px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
+.form-label::after {
+    content: attr(data-limit);
+    font-weight: 400;
+    font-size: 0.9rem;
+    color: #b0b0b0;
+    margin-left: 5px;
 }
 
-button {
-  margin-top: 20px;
-  padding: 10px;
-  background: #007BFF;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 16px;
+.form-control, .form-select {
+    background-color: #2a2a2a !important;
+    color: #e0e0e0 !important;
+    border: 1px solid #444 !important;
 }
 
-button:hover {
-  background: #0056b3;
+.form-control:focus, .form-select:focus {
+    border-color: #6c63ff !important;
+    box-shadow: 0 0 5px rgba(108, 99, 255, 0.5) !important;
+    background-color: #2a2a2a !important;
+    color: #e0e0e0 !important;
 }
 
-.result {
-  margin-top: 20px;
-  padding: 15px;
-  background: #e9f7ef;
-  border: 1px solid #28a745;
-  border-radius: 6px;
-  color: #155724;
-  text-align: center;
+.btn-primary {
+    background-color: #6c63ff !important;
+    border-color: #6c63ff !important;
+    color: #ffffff !important;
+}
+
+.btn-primary:hover {
+    background-color: #5750d4 !important;
+    border-color: #5750d4 !important;
+}
+
+.alert-info {
+    background-color: #2a2a2a !important;
+    border-color: #444 !important;
+    color: #ffffff !important;
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+.form-check-label {
+    color: #e0e0e0;
+}
+
+@media (max-width: 768px) {
+    .card {
+        padding: 20px;
+    }
 }
