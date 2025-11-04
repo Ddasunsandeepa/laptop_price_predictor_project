@@ -42,7 +42,7 @@ else:
     mae_rupees = mean_absolute_error(y_test, y_pred)
     r2_rupees  = r2_score(y_test, y_pred)
 
-    print("\n===== FINAL TEST METRICS =====")
+    print("\n == FINAL TEST METRICS ===")
     print(f"MAE (rupees) : {mae_rupees:,.2f}")
     print(f"R²           : {r2_rupees:.3f}")
 
@@ -53,4 +53,4 @@ out = pd.DataFrame({
     "PredictedPrice": y_pred_rupees if LOG_PRICE else y_pred
 })
 out.to_csv("reports/test_predictions.csv", index=False)
-print("✓ Saved reports/test_predictions.csv")
+print("Saved reports/test_predictions.csv")

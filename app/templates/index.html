@@ -11,11 +11,11 @@
 <body>
   <div class="video-background">
     <video autoplay loop muted plays-inline class="video-fill">
-        <source src="{{ url_for('static', filename='image/video.mp4') }}" type="video/mp4">
-        Your browser does not support the video tag.
+      <source src="{{ url_for('static', filename='image/video.mp4') }}" type="video/mp4">
+      Your browser does not support the video tag.
     </video>
     <div class="video-overlay"></div>
-</div>
+  </div>
   <div class="container mt-5">
     <h1 class="text-center mb-4">💻 Laptop Price Predictor</h1>
     <div class="card p-4 shadow-sm">
@@ -88,11 +88,11 @@
             </select>
           </div>
           <div class="col-md-3">
-            <label class="form-label" data-limit="(0-2048)">SSD (MB)</label>
+            <label class="form-label" data-limit="(0-2048)">SSD (GB)</label>
             <input type="number" name="SSD" class="form-control" min="0" max="2048" required>
           </div>
           <div class="col-md-3">
-            <label class="form-label" data-limit="(0-2048)">HDD (MB)</label>
+            <label class="form-label" data-limit="(0-2048)">HDD (GB)</label>
             <input type="number" name="HDD" class="form-control" min="0" max="2048" required>
           </div>
         </div>
