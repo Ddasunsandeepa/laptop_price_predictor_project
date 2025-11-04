@@ -9,6 +9,13 @@
 </head>
 
 <body>
+  <div class="video-background">
+    <video autoplay loop muted plays-inline class="video-fill">
+        <source src="{{ url_for('static', filename='image/video.mp4') }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <div class="video-overlay"></div>
+</div>
   <div class="container mt-5">
     <h1 class="text-center mb-4">💻 Laptop Price Predictor</h1>
     <div class="card p-4 shadow-sm">
