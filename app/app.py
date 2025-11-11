@@ -1,4 +1,6 @@
 from flask import Flask, render_template, request
+import shap
+import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import joblib
@@ -64,6 +66,8 @@ def predict():
 
         exchange_rate = get_inr_to_lkr_rate()
         price_lkr = price_inr * exchange_rate
+
+        
 
         prediction_msg = f"Estimated Laptop Price:\nLKR: ₨ {price_lkr:,.2f}"
 
