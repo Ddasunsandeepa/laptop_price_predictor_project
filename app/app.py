@@ -65,7 +65,7 @@ def predict():
         exchange_rate = get_inr_to_lkr_rate()
         price_lkr = price_inr * exchange_rate
 
-        prediction_msg = f"Estimated Laptop Price:\nLKR: ₨ {price_lkr:,.2f}"
+        prediction_msg = f"Estimated Laptop Price:\nLKR {price_lkr:,.2f}"
 
         # Pass dropdown options again so the form doesn't break
         return render_template(
@@ -81,7 +81,7 @@ def predict():
     except Exception as e:
         return render_template(
             "index.html",
-            prediction_text=f"⚠️ Error predicting price: {str(e)}\nPlease check your input values.",
+            prediction_text=f"Error predicting price: {str(e)}\nPlease check your input values.",
             companies=["Dell", "HP", "Lenovo", "Asus", "Apple", "Acer", "MSI"],
             types=["Ultrabook", "Gaming", "Notebook", "2 in 1", "Workstation"],
             os_options=["Windows", "MacOS", "Linux", "Chrome OS"],
