@@ -67,13 +67,8 @@ def predict():
         exchange_rate = get_inr_to_lkr_rate()
         price_lkr = price_inr * exchange_rate
 
-<<<<<<< HEAD
-        prediction_msg = f"Estimated Laptop Price:\nLKR {price_lkr:,.2f}"
-=======
-        
 
         prediction_msg = f"Estimated Laptop Price:\nLKR: ₨ {price_lkr:,.2f}"
->>>>>>> 53175a87e55e3e1fb908f61cd93c9b52ccb6e224
 
         # Pass dropdown options again so the form doesn't break
         return render_template(
