@@ -1,6 +1,6 @@
 # 🚀 Laptop Price Predictor Project
 
-This is a **Machine Learning project** that predicts laptop prices based on various features.  
+This is a **Machine Learning project** that predicts laptop prices based on various features..  
 The project is fully **containerized** using **Miniforge, Conda, and Mamba**, so you don’t need to install Python or libraries locally.  
 It runs seamlessly in **VS Code Dev Containers**, including **Jupyter notebooks** and the **Flask web app**.
 
